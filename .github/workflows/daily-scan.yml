@@ -2,7 +2,8 @@ name: YouTube Daily Top 5 Scan
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 7h tối Vietnam (UTC+7 = 12:00 UTC)
+    - cron: '0 3 * * *'    # 10h sáng Vietnam (UTC+7 = 03:00 UTC)
+    - cron: '0 12 * * *'   # 7h tối Vietnam  (UTC+7 = 12:00 UTC)
   workflow_dispatch:         # Cho phép chạy thủ công bất kỳ lúc nào
 
 jobs:
