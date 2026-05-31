@@ -899,5 +899,42 @@ updateTimeChips();
 renderList();
 (function restore(){try{const s=localStorage.getItem(LAST);if(s){const d=JSON.parse(s);if(d&&d.videos&&d.videos.length){window._scanData=d;displayResults();return;}}}catch(e){}renderEmptyState();})();
 </script>
+
+<div id="auto-banner" style="display:none;background:#1a1a1a;border:1px solid #2e2e2e;border-radius:10px;padding:13px 16px;margin-bottom:14px;font-size:13px;color:#aaa;display:flex;align-items:center;gap:10px">
+  <span style="font-size:18px">🤖</span>
+  <span id="auto-banner-text">Đang tải kết quả tự động...</span>
+  <a id="auto-banner-link" href="#" target="_blank" style="margin-left:auto;color:#ff4444;font-weight:600;text-decoration:none;font-size:12px">Xem trên YouTube ↗</a>
+</div>
+
+<script>
+// Auto-load data.json nếu có (được tạo bởi GitHub Actions)
+(async function autoLoad() {
+  try {
+    const res = await fetch('./data.json?t=' + Date.now());
+    if (!res.ok) return;
+    const data = await res.json();
+    if (!data?.top5?.length) return;
+
+    // Hiện banner thông báo
+    const banner = document.getElementById('auto-banner');
+    const bannerText = document.getElementById('auto-banner-text');
+    const scanned = new Date(data.scannedAt).toLocaleString('vi-VN', {
+      timeZone: 'Asia/Ho_Chi_Minh', dateStyle: 'short', timeStyle: 'short'
+    });
+    bannerText.innerHTML = '🤖 Kết quả tự động · Cập nhật lúc <b style="color:#f1f1f1">' + scanned + '</b> · ' + data.days + ' ngày · ' + data.channels.length + ' kênh';
+    banner.style.display = 'flex';
+    document.getElementById('auto-banner-link').style.display = 'none';
+
+    // Render kết quả
+    window._top5 = data.top5;
+    if (typeof renderResults === 'function') {
+      renderResults(data.top5, data.days, data.channels.map(l => ({ label: l, enabled: true })));
+    }
+  } catch(e) {
+    // data.json chưa có — bình thường, bỏ qua
+  }
+})();
+</script>
+
 </body>
 </html>
