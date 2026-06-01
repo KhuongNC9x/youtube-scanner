@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-01T07:22:13.780Z",
+  "scannedAt": "2026-06-01T12:01:01.363Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/kX94IR3lsak/mqdefault.jpg",
       "publishedAt": "2026-05-27T04:33:22Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 131247,
-      "likeCount": 2722,
-      "commentCount": 170
+      "viewCount": 150367,
+      "likeCount": 3019,
+      "commentCount": 182
     },
     {
       "videoId": "VQFM0Mj5X0c",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/VQFM0Mj5X0c/mqdefault.jpg",
       "publishedAt": "2026-05-27T04:03:09Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 89535,
-      "likeCount": 2260,
+      "viewCount": 92593,
+      "likeCount": 2315,
       "commentCount": 55
-    },
-    {
-      "videoId": "7JCGj1Cl5BY",
-      "title": "Tập 01-10 | Tội Phạm Trùng Sinh Làm Cảnh Sát Tôi Quậy Cả Đồn | Bao Bao Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/7JCGj1Cl5BY/mqdefault.jpg",
-      "publishedAt": "2026-05-25T10:00:23Z",
-      "channelLabel": "Bao Bao VietSub",
-      "viewCount": 53474,
-      "likeCount": 1355,
-      "commentCount": 78
     },
     {
       "videoId": "8kCrc86IKXc",
@@ -47,8 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/8kCrc86IKXc/mqdefault.jpg",
       "publishedAt": "2026-05-25T14:01:47Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 39964,
-      "likeCount": 1032,
+      "viewCount": 40803,
+      "likeCount": 1053,
       "commentCount": 18
     },
     {
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/76ZDlDIAqe4/mqdefault.jpg",
       "publishedAt": "2026-05-28T11:01:13Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 34167,
-      "likeCount": 1513,
+      "viewCount": 35656,
+      "likeCount": 1533,
       "commentCount": 85
+    },
+    {
+      "videoId": "LAYF_OksNeE",
+      "title": "Ngự thú sư mạnh nhất Tập 655-656 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/LAYF_OksNeE/mqdefault.jpg",
+      "publishedAt": "2026-05-26T12:01:21Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 33734,
+      "likeCount": 1543,
+      "commentCount": 121
     }
   ]
 }
