@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-02T03:00:52.279Z",
+  "scannedAt": "2026-06-02T12:01:01.740Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/kX94IR3lsak/mqdefault.jpg",
       "publishedAt": "2026-05-27T04:33:22Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 187878,
-      "likeCount": 3550,
-      "commentCount": 198
+      "viewCount": 228551,
+      "likeCount": 3973,
+      "commentCount": 231
     },
     {
       "videoId": "VQFM0Mj5X0c",
@@ -27,9 +27,19 @@
       "thumbnail": "https://i.ytimg.com/vi/VQFM0Mj5X0c/mqdefault.jpg",
       "publishedAt": "2026-05-27T04:03:09Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 97473,
-      "likeCount": 2417,
-      "commentCount": 57
+      "viewCount": 104248,
+      "likeCount": 2531,
+      "commentCount": 60
+    },
+    {
+      "videoId": "GTe7Cwto6DE",
+      "title": "(Full End P1) Sinh Tồn Trong Kỷ Băng Hà Tôi Là Top 1 Sever | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/GTe7Cwto6DE/mqdefault.jpg",
+      "publishedAt": "2026-05-28T04:00:31Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 44903,
+      "likeCount": 1117,
+      "commentCount": 63
     },
     {
       "videoId": "76ZDlDIAqe4",
@@ -37,8 +47,8 @@
       "thumbnail": "https://i.ytimg.com/vi/76ZDlDIAqe4/mqdefault.jpg",
       "publishedAt": "2026-05-28T11:01:13Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 38254,
-      "likeCount": 1563,
+      "viewCount": 40675,
+      "likeCount": 1588,
       "commentCount": 85
     },
     {
@@ -47,19 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/LAYF_OksNeE/mqdefault.jpg",
       "publishedAt": "2026-05-26T12:01:21Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 34595,
-      "likeCount": 1555,
+      "viewCount": 35441,
+      "likeCount": 1562,
       "commentCount": 121
-    },
-    {
-      "videoId": "GTe7Cwto6DE",
-      "title": "(Full End P1) Sinh Tồn Trong Kỷ Băng Hà Tôi Là Top 1 Sever | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/GTe7Cwto6DE/mqdefault.jpg",
-      "publishedAt": "2026-05-28T04:00:31Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 30654,
-      "likeCount": 815,
-      "commentCount": 52
     }
   ]
 }
