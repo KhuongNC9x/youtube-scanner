@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-03T12:00:59.859Z",
+  "scannedAt": "2026-06-04T03:00:56.621Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/GTe7Cwto6DE/mqdefault.jpg",
       "publishedAt": "2026-05-28T04:00:31Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 51210,
-      "likeCount": 1200,
-      "commentCount": 68
+      "viewCount": 52609,
+      "likeCount": 1218,
+      "commentCount": 69
     },
     {
       "videoId": "890tW40cTTE",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/890tW40cTTE/mqdefault.jpg",
       "publishedAt": "2026-05-30T04:00:02Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 46031,
-      "likeCount": 1607,
-      "commentCount": 146
-    },
-    {
-      "videoId": "76ZDlDIAqe4",
-      "title": "Ngự thú sư mạnh nhất Tập 657-658 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/76ZDlDIAqe4/mqdefault.jpg",
-      "publishedAt": "2026-05-28T11:01:13Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 44630,
-      "likeCount": 1654,
-      "commentCount": 85
+      "viewCount": 49109,
+      "likeCount": 1641,
+      "commentCount": 153
     },
     {
       "videoId": "YraRcMC0z0g",
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/YraRcMC0z0g/mqdefault.jpg",
       "publishedAt": "2026-06-01T04:00:15Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 42363,
-      "likeCount": 1347,
-      "commentCount": 105
+      "viewCount": 47010,
+      "likeCount": 1430,
+      "commentCount": 115
+    },
+    {
+      "videoId": "76ZDlDIAqe4",
+      "title": "Ngự thú sư mạnh nhất Tập 657-658 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/76ZDlDIAqe4/mqdefault.jpg",
+      "publishedAt": "2026-05-28T11:01:13Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 46209,
+      "likeCount": 1672,
+      "commentCount": 86
     },
     {
       "videoId": "YcKX_wg7kGw",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/YcKX_wg7kGw/mqdefault.jpg",
       "publishedAt": "2026-05-31T04:00:24Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 37448,
-      "likeCount": 1014,
-      "commentCount": 43
+      "viewCount": 46065,
+      "likeCount": 1108,
+      "commentCount": 48
     }
   ]
 }
