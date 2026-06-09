@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-09T03:00:57.958Z",
+  "scannedAt": "2026-06-09T12:00:58.825Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "c3kX2j3xTBE",
-      "title": "Ngự thú sư mạnh nhất Tập 661-662 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/c3kX2j3xTBE/mqdefault.jpg",
-      "publishedAt": "2026-06-02T10:54:27Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 40157,
-      "likeCount": 1608,
-      "commentCount": 71
-    },
-    {
       "videoId": "OmMRV7LMIJc",
       "title": "Tôi Tái Sinh Để Trở Nên SIÊU CẤP VÔ ĐỊCH Full | Mỳ Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/OmMRV7LMIJc/mqdefault.jpg",
       "publishedAt": "2026-06-06T13:56:00Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 38590,
-      "likeCount": 799,
-      "commentCount": 27
+      "viewCount": 44700,
+      "likeCount": 854,
+      "commentCount": 30
     },
     {
       "videoId": "7palQNR8DvU",
@@ -37,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/7palQNR8DvU/mqdefault.jpg",
       "publishedAt": "2026-06-04T10:12:02Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 37758,
-      "likeCount": 1498,
+      "viewCount": 38899,
+      "likeCount": 1508,
       "commentCount": 70
     },
     {
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/xSjcgz1D_js/mqdefault.jpg",
       "publishedAt": "2026-06-06T11:32:05Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 29264,
-      "likeCount": 1390,
-      "commentCount": 64
+      "viewCount": 30852,
+      "likeCount": 1419,
+      "commentCount": 65
+    },
+    {
+      "videoId": "Xb06mf6ZmYQ",
+      "title": "(Full 1-10) Ta Thức Tỉnh Ma Chủng Mạnh Nhất Thất Đại Tội | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/Xb06mf6ZmYQ/mqdefault.jpg",
+      "publishedAt": "2026-06-04T12:02:55Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 27155,
+      "likeCount": 494,
+      "commentCount": 26
     },
     {
       "videoId": "OOWexzipn4w",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/OOWexzipn4w/mqdefault.jpg",
       "publishedAt": "2026-06-02T12:23:00Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 23883,
-      "likeCount": 486,
-      "commentCount": 36
+      "viewCount": 25133,
+      "likeCount": 511,
+      "commentCount": 37
     }
   ]
 }
