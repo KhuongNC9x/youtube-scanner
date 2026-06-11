@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-11T03:00:57.252Z",
+  "scannedAt": "2026-06-11T12:01:06.392Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,44 +12,24 @@
   ],
   "top5": [
     {
-      "videoId": "OmMRV7LMIJc",
-      "title": "Tôi Tái Sinh Để Trở Nên SIÊU CẤP VÔ ĐỊCH Full | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/OmMRV7LMIJc/mqdefault.jpg",
-      "publishedAt": "2026-06-06T13:56:00Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 53889,
-      "likeCount": 932,
-      "commentCount": 31
-    },
-    {
       "videoId": "Xb06mf6ZmYQ",
       "title": "(Full 1-10) Ta Thức Tỉnh Ma Chủng Mạnh Nhất Thất Đại Tội | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/Xb06mf6ZmYQ/mqdefault.jpg",
       "publishedAt": "2026-06-04T12:02:55Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 49938,
-      "likeCount": 717,
-      "commentCount": 35
+      "viewCount": 62020,
+      "likeCount": 803,
+      "commentCount": 37
     },
     {
-      "videoId": "7palQNR8DvU",
-      "title": "Ngự thú sư mạnh nhất Tập 663-664 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/7palQNR8DvU/mqdefault.jpg",
-      "publishedAt": "2026-06-04T10:12:02Z",
+      "videoId": "OmMRV7LMIJc",
+      "title": "Tôi Tái Sinh Để Trở Nên SIÊU CẤP VÔ ĐỊCH Full | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/OmMRV7LMIJc/mqdefault.jpg",
+      "publishedAt": "2026-06-06T13:56:00Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 41853,
-      "likeCount": 1544,
-      "commentCount": 71
-    },
-    {
-      "videoId": "xSjcgz1D_js",
-      "title": "Ngự thú sư mạnh nhất Tập 665-666 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/xSjcgz1D_js/mqdefault.jpg",
-      "publishedAt": "2026-06-06T11:32:05Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 36083,
-      "likeCount": 1490,
-      "commentCount": 65
+      "viewCount": 56133,
+      "likeCount": 943,
+      "commentCount": 31
     },
     {
       "videoId": "hlgJlcWOfh8",
@@ -57,9 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/hlgJlcWOfh8/mqdefault.jpg",
       "publishedAt": "2026-06-07T10:00:01Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 35863,
-      "likeCount": 842,
-      "commentCount": 59
+      "viewCount": 40242,
+      "likeCount": 868,
+      "commentCount": 62
+    },
+    {
+      "videoId": "xSjcgz1D_js",
+      "title": "Ngự thú sư mạnh nhất Tập 665-666 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/xSjcgz1D_js/mqdefault.jpg",
+      "publishedAt": "2026-06-06T11:32:05Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 37094,
+      "likeCount": 1498,
+      "commentCount": 65
+    },
+    {
+      "videoId": "eBGcFqKPmp4",
+      "title": "Ngự thú sư mạnh nhất Tập 667-668 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/eBGcFqKPmp4/mqdefault.jpg",
+      "publishedAt": "2026-06-09T10:19:45Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 28079,
+      "likeCount": 1371,
+      "commentCount": 99
     }
   ]
 }
