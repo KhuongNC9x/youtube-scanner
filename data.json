@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-11T12:01:06.392Z",
+  "scannedAt": "2026-06-12T03:00:56.832Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "Xb06mf6ZmYQ",
-      "title": "(Full 1-10) Ta Thức Tỉnh Ma Chủng Mạnh Nhất Thất Đại Tội | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/Xb06mf6ZmYQ/mqdefault.jpg",
-      "publishedAt": "2026-06-04T12:02:55Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 62020,
-      "likeCount": 803,
-      "commentCount": 37
-    },
-    {
       "videoId": "OmMRV7LMIJc",
       "title": "Tôi Tái Sinh Để Trở Nên SIÊU CẤP VÔ ĐỊCH Full | Mỳ Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/OmMRV7LMIJc/mqdefault.jpg",
       "publishedAt": "2026-06-06T13:56:00Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 56133,
-      "likeCount": 943,
+      "viewCount": 57493,
+      "likeCount": 965,
       "commentCount": 31
     },
     {
@@ -37,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/hlgJlcWOfh8/mqdefault.jpg",
       "publishedAt": "2026-06-07T10:00:01Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 40242,
-      "likeCount": 868,
+      "viewCount": 45954,
+      "likeCount": 965,
       "commentCount": 62
     },
     {
@@ -47,8 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/xSjcgz1D_js/mqdefault.jpg",
       "publishedAt": "2026-06-06T11:32:05Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 37094,
-      "likeCount": 1498,
+      "viewCount": 38052,
+      "likeCount": 1508,
       "commentCount": 65
     },
     {
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/eBGcFqKPmp4/mqdefault.jpg",
       "publishedAt": "2026-06-09T10:19:45Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 28079,
-      "likeCount": 1371,
-      "commentCount": 99
+      "viewCount": 30172,
+      "likeCount": 1396,
+      "commentCount": 100
+    },
+    {
+      "videoId": "_78P7dr3wFA",
+      "title": "(Full 1-25) Trở Lại Làm Ông Trùm Xưng Bá Giang Hồ | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/_78P7dr3wFA/mqdefault.jpg",
+      "publishedAt": "2026-06-06T10:00:19Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 25273,
+      "likeCount": 372,
+      "commentCount": 26
     }
   ]
 }
