@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-15T03:01:03.643Z",
+  "scannedAt": "2026-06-15T12:01:06.960Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/QCA0lEOlg5E/mqdefault.jpg",
       "publishedAt": "2026-06-10T10:00:15Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 90275,
-      "likeCount": 1593,
-      "commentCount": 82
+      "viewCount": 113839,
+      "likeCount": 1774,
+      "commentCount": 89
     },
     {
       "videoId": "eBGcFqKPmp4",
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/eBGcFqKPmp4/mqdefault.jpg",
       "publishedAt": "2026-06-09T10:19:45Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 38467,
-      "likeCount": 1531,
+      "viewCount": 39462,
+      "likeCount": 1535,
       "commentCount": 107
     },
     {
@@ -37,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/FoTI5fad8nc/mqdefault.jpg",
       "publishedAt": "2026-06-11T10:48:53Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 33531,
-      "likeCount": 1315,
+      "viewCount": 34935,
+      "likeCount": 1328,
       "commentCount": 92
+    },
+    {
+      "videoId": "CI72pWBqSug",
+      "title": "(Full 01-50) Tập Làm Đại Ca Học Đường | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/CI72pWBqSug/mqdefault.jpg",
+      "publishedAt": "2026-06-11T04:00:27Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 32202,
+      "likeCount": 629,
+      "commentCount": 54
     },
     {
       "videoId": "HSHTo9m03ys",
@@ -47,19 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/HSHTo9m03ys/mqdefault.jpg",
       "publishedAt": "2026-06-09T10:00:33Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 27623,
-      "likeCount": 708,
-      "commentCount": 28
-    },
-    {
-      "videoId": "oJ8GAkBm3DU",
-      "title": "Ngự thú sư mạnh nhất Tập 671-672 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/oJ8GAkBm3DU/mqdefault.jpg",
-      "publishedAt": "2026-06-13T10:01:01Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 27136,
-      "likeCount": 1264,
-      "commentCount": 68
+      "viewCount": 32124,
+      "likeCount": 809,
+      "commentCount": 30
     }
   ]
 }
