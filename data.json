@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-15T12:01:06.960Z",
+  "scannedAt": "2026-06-16T03:01:05.820Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/QCA0lEOlg5E/mqdefault.jpg",
       "publishedAt": "2026-06-10T10:00:15Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 113839,
-      "likeCount": 1774,
-      "commentCount": 89
+      "viewCount": 125957,
+      "likeCount": 1921,
+      "commentCount": 97
     },
     {
       "videoId": "eBGcFqKPmp4",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/eBGcFqKPmp4/mqdefault.jpg",
       "publishedAt": "2026-06-09T10:19:45Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 39462,
-      "likeCount": 1535,
+      "viewCount": 40278,
+      "likeCount": 1544,
       "commentCount": 107
-    },
-    {
-      "videoId": "FoTI5fad8nc",
-      "title": "Ngự thú sư mạnh nhất Tập 669-670 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/FoTI5fad8nc/mqdefault.jpg",
-      "publishedAt": "2026-06-11T10:48:53Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 34935,
-      "likeCount": 1328,
-      "commentCount": 92
     },
     {
       "videoId": "CI72pWBqSug",
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/CI72pWBqSug/mqdefault.jpg",
       "publishedAt": "2026-06-11T04:00:27Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 32202,
-      "likeCount": 629,
-      "commentCount": 54
+      "viewCount": 37609,
+      "likeCount": 729,
+      "commentCount": 56
+    },
+    {
+      "videoId": "FoTI5fad8nc",
+      "title": "Ngự thú sư mạnh nhất Tập 669-670 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/FoTI5fad8nc/mqdefault.jpg",
+      "publishedAt": "2026-06-11T10:48:53Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 36133,
+      "likeCount": 1351,
+      "commentCount": 93
     },
     {
       "videoId": "HSHTo9m03ys",
@@ -57,8 +57,8 @@
       "thumbnail": "https://i.ytimg.com/vi/HSHTo9m03ys/mqdefault.jpg",
       "publishedAt": "2026-06-09T10:00:33Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 32124,
-      "likeCount": 809,
+      "viewCount": 34863,
+      "likeCount": 855,
       "commentCount": 30
     }
   ]
