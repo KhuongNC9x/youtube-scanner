@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-18T03:01:08.775Z",
+  "scannedAt": "2026-06-18T12:01:18.253Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "CI72pWBqSug",
-      "title": "(Full 01-50) Tập Làm Đại Ca Học Đường | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/CI72pWBqSug/mqdefault.jpg",
-      "publishedAt": "2026-06-11T04:00:27Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 80280,
-      "likeCount": 1379,
-      "commentCount": 72
-    },
-    {
       "videoId": "5Hk9jjkh__4",
       "title": "(Full Mùa 1) Kẻ Điên Được Thần Chọn Trong Trò Chơi Quỷ Dị | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/5Hk9jjkh__4/mqdefault.jpg",
       "publishedAt": "2026-06-13T04:00:37Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 65662,
-      "likeCount": 1736,
+      "viewCount": 66955,
+      "likeCount": 1761,
       "commentCount": 114
     },
     {
@@ -37,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/y448m8Q4wps/mqdefault.jpg",
       "publishedAt": "2026-06-14T04:39:47Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 50816,
-      "likeCount": 1369,
-      "commentCount": 20
+      "viewCount": 58850,
+      "likeCount": 1430,
+      "commentCount": 21
     },
     {
       "videoId": "sCdMVc0iVwY",
@@ -47,19 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/sCdMVc0iVwY/mqdefault.jpg",
       "publishedAt": "2026-06-12T10:50:55Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 46563,
-      "likeCount": 1054,
+      "viewCount": 47679,
+      "likeCount": 1061,
       "commentCount": 28
     },
     {
-      "videoId": "FoTI5fad8nc",
-      "title": "Ngự thú sư mạnh nhất Tập 669-670 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/FoTI5fad8nc/mqdefault.jpg",
-      "publishedAt": "2026-06-11T10:48:53Z",
+      "videoId": "7iwA4IYTJkc",
+      "title": "(Full End) Hệ Thống Độc Thân Thành Tỷ Phú | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/7iwA4IYTJkc/mqdefault.jpg",
+      "publishedAt": "2026-06-14T04:00:37Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 44708,
+      "likeCount": 990,
+      "commentCount": 61
+    },
+    {
+      "videoId": "oJ8GAkBm3DU",
+      "title": "Ngự thú sư mạnh nhất Tập 671-672 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/oJ8GAkBm3DU/mqdefault.jpg",
+      "publishedAt": "2026-06-13T10:01:01Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 40353,
-      "likeCount": 1393,
-      "commentCount": 93
+      "viewCount": 40001,
+      "likeCount": 1468,
+      "commentCount": 82
     }
   ]
 }
