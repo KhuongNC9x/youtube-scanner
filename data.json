@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-17T12:01:15.812Z",
+  "scannedAt": "2026-06-18T03:01:08.775Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/CI72pWBqSug/mqdefault.jpg",
       "publishedAt": "2026-06-11T04:00:27Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 66992,
-      "likeCount": 1194,
-      "commentCount": 64
+      "viewCount": 80280,
+      "likeCount": 1379,
+      "commentCount": 72
     },
     {
       "videoId": "5Hk9jjkh__4",
@@ -27,9 +27,19 @@
       "thumbnail": "https://i.ytimg.com/vi/5Hk9jjkh__4/mqdefault.jpg",
       "publishedAt": "2026-06-13T04:00:37Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 64442,
-      "likeCount": 1713,
-      "commentCount": 113
+      "viewCount": 65662,
+      "likeCount": 1736,
+      "commentCount": 114
+    },
+    {
+      "videoId": "y448m8Q4wps",
+      "title": "(Full End) Sư Tôn Cá Mặn Siêu Cấp Vô Địch | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/y448m8Q4wps/mqdefault.jpg",
+      "publishedAt": "2026-06-14T04:39:47Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 50816,
+      "likeCount": 1369,
+      "commentCount": 20
     },
     {
       "videoId": "sCdMVc0iVwY",
@@ -37,9 +47,9 @@
       "thumbnail": "https://i.ytimg.com/vi/sCdMVc0iVwY/mqdefault.jpg",
       "publishedAt": "2026-06-12T10:50:55Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 44700,
-      "likeCount": 1035,
-      "commentCount": 27
+      "viewCount": 46563,
+      "likeCount": 1054,
+      "commentCount": 28
     },
     {
       "videoId": "FoTI5fad8nc",
@@ -47,19 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/FoTI5fad8nc/mqdefault.jpg",
       "publishedAt": "2026-06-11T10:48:53Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 39604,
-      "likeCount": 1388,
+      "viewCount": 40353,
+      "likeCount": 1393,
       "commentCount": 93
-    },
-    {
-      "videoId": "oJ8GAkBm3DU",
-      "title": "Ngự thú sư mạnh nhất Tập 671-672 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/oJ8GAkBm3DU/mqdefault.jpg",
-      "publishedAt": "2026-06-13T10:01:01Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 38043,
-      "likeCount": 1445,
-      "commentCount": 82
     }
   ]
 }
