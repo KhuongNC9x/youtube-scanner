@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-18T12:01:18.253Z",
+  "scannedAt": "2026-06-19T03:01:07.244Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/5Hk9jjkh__4/mqdefault.jpg",
       "publishedAt": "2026-06-13T04:00:37Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 66955,
-      "likeCount": 1761,
-      "commentCount": 114
+      "viewCount": 67926,
+      "likeCount": 1781,
+      "commentCount": 115
     },
     {
       "videoId": "y448m8Q4wps",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/y448m8Q4wps/mqdefault.jpg",
       "publishedAt": "2026-06-14T04:39:47Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 58850,
-      "likeCount": 1430,
-      "commentCount": 21
-    },
-    {
-      "videoId": "sCdMVc0iVwY",
-      "title": "(Full End) Hệ Thống Độc Toàn Thân 1 Ngày - Nhận 1 Tỷ | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/sCdMVc0iVwY/mqdefault.jpg",
-      "publishedAt": "2026-06-12T10:50:55Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 47679,
-      "likeCount": 1061,
-      "commentCount": 28
+      "viewCount": 65632,
+      "likeCount": 1616,
+      "commentCount": 29
     },
     {
       "videoId": "7iwA4IYTJkc",
@@ -47,19 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/7iwA4IYTJkc/mqdefault.jpg",
       "publishedAt": "2026-06-14T04:00:37Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 44708,
-      "likeCount": 990,
-      "commentCount": 61
+      "viewCount": 53102,
+      "likeCount": 1119,
+      "commentCount": 64
     },
     {
-      "videoId": "oJ8GAkBm3DU",
-      "title": "Ngự thú sư mạnh nhất Tập 671-672 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/oJ8GAkBm3DU/mqdefault.jpg",
-      "publishedAt": "2026-06-13T10:01:01Z",
+      "videoId": "sCdMVc0iVwY",
+      "title": "(Full End) Hệ Thống Độc Toàn Thân 1 Ngày - Nhận 1 Tỷ | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/sCdMVc0iVwY/mqdefault.jpg",
+      "publishedAt": "2026-06-12T10:50:55Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 40001,
-      "likeCount": 1468,
-      "commentCount": 82
+      "viewCount": 48750,
+      "likeCount": 1075,
+      "commentCount": 28
+    },
+    {
+      "videoId": "k08Neejkxk4",
+      "title": "(Full 1-50) Hệ Thống Mua Bán Thân Phận Cấp Thần Tại Dị Giới | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/k08Neejkxk4/mqdefault.jpg",
+      "publishedAt": "2026-06-12T10:00:14Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 44520,
+      "likeCount": 1104,
+      "commentCount": 64
     }
   ]
 }
