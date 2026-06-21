@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-20T12:01:09.575Z",
+  "scannedAt": "2026-06-21T03:01:06.809Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,14 +12,24 @@
   ],
   "top5": [
     {
+      "videoId": "0tWlx-Zi79U",
+      "title": "(Full End) Ta Là Khắc Văn Sư Cấp Thần | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/0tWlx-Zi79U/mqdefault.jpg",
+      "publishedAt": "2026-06-17T04:00:19Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 84608,
+      "likeCount": 1949,
+      "commentCount": 58
+    },
+    {
       "videoId": "y448m8Q4wps",
       "title": "(Full End) Sư Tôn Cá Mặn Siêu Cấp Vô Địch | Mỳ Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/y448m8Q4wps/mqdefault.jpg",
       "publishedAt": "2026-06-14T04:39:47Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 79708,
-      "likeCount": 1873,
-      "commentCount": 44
+      "viewCount": 82700,
+      "likeCount": 1928,
+      "commentCount": 48
     },
     {
       "videoId": "7iwA4IYTJkc",
@@ -27,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/7iwA4IYTJkc/mqdefault.jpg",
       "publishedAt": "2026-06-14T04:00:37Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 66699,
-      "likeCount": 1316,
-      "commentCount": 82
-    },
-    {
-      "videoId": "0tWlx-Zi79U",
-      "title": "(Full End) Ta Là Khắc Văn Sư Cấp Thần | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/0tWlx-Zi79U/mqdefault.jpg",
-      "publishedAt": "2026-06-17T04:00:19Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 52907,
-      "likeCount": 1432,
-      "commentCount": 49
+      "viewCount": 67883,
+      "likeCount": 1350,
+      "commentCount": 85
     },
     {
       "videoId": "UiiRa_34a7Y",
@@ -47,9 +47,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UiiRa_34a7Y/mqdefault.jpg",
       "publishedAt": "2026-06-16T10:00:26Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 42326,
-      "likeCount": 870,
-      "commentCount": 34
+      "viewCount": 43569,
+      "likeCount": 899,
+      "commentCount": 35
     },
     {
       "videoId": "dUuR0OhGVFw",
@@ -57,8 +57,8 @@
       "thumbnail": "https://i.ytimg.com/vi/dUuR0OhGVFw/mqdefault.jpg",
       "publishedAt": "2026-06-17T10:00:09Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 35872,
-      "likeCount": 1028,
+      "viewCount": 38607,
+      "likeCount": 1116,
       "commentCount": 16
     }
   ]
