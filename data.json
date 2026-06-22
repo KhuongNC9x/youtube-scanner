@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-22T03:01:07.163Z",
+  "scannedAt": "2026-06-22T12:01:14.586Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,19 @@
       "thumbnail": "https://i.ytimg.com/vi/0tWlx-Zi79U/mqdefault.jpg",
       "publishedAt": "2026-06-17T04:00:19Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 131570,
-      "likeCount": 2735,
-      "commentCount": 71
+      "viewCount": 165859,
+      "likeCount": 3110,
+      "commentCount": 87
+    },
+    {
+      "videoId": "rVVUA263Bvw",
+      "title": "FULL END | Kẻ Ăn Hồn | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/rVVUA263Bvw/mqdefault.jpg",
+      "publishedAt": "2026-06-19T03:00:26Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 51770,
+      "likeCount": 2166,
+      "commentCount": 282
     },
     {
       "videoId": "UiiRa_34a7Y",
@@ -27,8 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/UiiRa_34a7Y/mqdefault.jpg",
       "publishedAt": "2026-06-16T10:00:26Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 45458,
-      "likeCount": 930,
+      "viewCount": 46007,
+      "likeCount": 934,
       "commentCount": 35
     },
     {
@@ -37,19 +47,9 @@
       "thumbnail": "https://i.ytimg.com/vi/dUuR0OhGVFw/mqdefault.jpg",
       "publishedAt": "2026-06-17T10:00:09Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 41798,
-      "likeCount": 1163,
-      "commentCount": 18
-    },
-    {
-      "videoId": "rVVUA263Bvw",
-      "title": "FULL END | Kẻ Ăn Hồn | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/rVVUA263Bvw/mqdefault.jpg",
-      "publishedAt": "2026-06-19T03:00:26Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 41274,
-      "likeCount": 1918,
-      "commentCount": 253
+      "viewCount": 43277,
+      "likeCount": 1179,
+      "commentCount": 19
     },
     {
       "videoId": "iJ0ZAxOO8XE",
@@ -57,8 +57,8 @@
       "thumbnail": "https://i.ytimg.com/vi/iJ0ZAxOO8XE/mqdefault.jpg",
       "publishedAt": "2026-06-16T11:01:20Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 37722,
-      "likeCount": 1494,
+      "viewCount": 38782,
+      "likeCount": 1507,
       "commentCount": 102
     }
   ]
