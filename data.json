@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-23T12:01:17.922Z",
+  "scannedAt": "2026-06-24T03:01:09.547Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/0tWlx-Zi79U/mqdefault.jpg",
       "publishedAt": "2026-06-17T04:00:19Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 173060,
-      "likeCount": 3170,
-      "commentCount": 92
+      "viewCount": 174812,
+      "likeCount": 3180,
+      "commentCount": 93
     },
     {
       "videoId": "rVVUA263Bvw",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/rVVUA263Bvw/mqdefault.jpg",
       "publishedAt": "2026-06-19T03:00:26Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 69000,
-      "likeCount": 2512,
-      "commentCount": 322
-    },
-    {
-      "videoId": "dUuR0OhGVFw",
-      "title": "(Full End) Lên Giường Nhầm Với Kẻ Thù | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/dUuR0OhGVFw/mqdefault.jpg",
-      "publishedAt": "2026-06-17T10:00:09Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 45452,
-      "likeCount": 1218,
-      "commentCount": 19
+      "viewCount": 76666,
+      "likeCount": 2625,
+      "commentCount": 346
     },
     {
       "videoId": "fmOPUGP2IRY",
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/fmOPUGP2IRY/mqdefault.jpg",
       "publishedAt": "2026-06-18T11:41:34Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 43040,
-      "likeCount": 1017,
-      "commentCount": 64
+      "viewCount": 47848,
+      "likeCount": 1098,
+      "commentCount": 69
+    },
+    {
+      "videoId": "dUuR0OhGVFw",
+      "title": "(Full End) Lên Giường Nhầm Với Kẻ Thù | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/dUuR0OhGVFw/mqdefault.jpg",
+      "publishedAt": "2026-06-17T10:00:09Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 46204,
+      "likeCount": 1237,
+      "commentCount": 20
     },
     {
       "videoId": "ic0XFKcEZA4",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/ic0XFKcEZA4/mqdefault.jpg",
       "publishedAt": "2026-06-18T11:07:08Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 38083,
-      "likeCount": 1415,
-      "commentCount": 90
+      "viewCount": 39167,
+      "likeCount": 1439,
+      "commentCount": 92
     }
   ]
 }
