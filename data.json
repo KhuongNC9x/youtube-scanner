@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-25T12:01:08.538Z",
+  "scannedAt": "2026-06-26T03:01:11.623Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "rVVUA263Bvw",
-      "title": "FULL END | Kẻ Ăn Hồn | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/rVVUA263Bvw/mqdefault.jpg",
-      "publishedAt": "2026-06-19T03:00:26Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 100635,
-      "likeCount": 2993,
-      "commentCount": 402
-    },
-    {
       "videoId": "7PRQbFFgWHw",
       "title": "(Full End) Hệ Thống Giải Quyết Phiền Muộn Cho Gái Xinh Vô Hạn Thưởng | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/7PRQbFFgWHw/mqdefault.jpg",
       "publishedAt": "2026-06-19T04:00:02Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 51989,
-      "likeCount": 1309,
-      "commentCount": 67
+      "viewCount": 56155,
+      "likeCount": 1392,
+      "commentCount": 71
     },
     {
       "videoId": "1l-ngsOo_F4",
@@ -37,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/1l-ngsOo_F4/mqdefault.jpg",
       "publishedAt": "2026-06-20T10:56:51Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 39132,
-      "likeCount": 1486,
-      "commentCount": 89
-    },
-    {
-      "videoId": "oYdDSxxdXrI",
-      "title": "Ngự thú sư mạnh nhất Tập 679-680 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/oYdDSxxdXrI/mqdefault.jpg",
-      "publishedAt": "2026-06-23T12:01:21Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 32554,
-      "likeCount": 1402,
-      "commentCount": 96
+      "viewCount": 40040,
+      "likeCount": 1502,
+      "commentCount": 90
     },
     {
       "videoId": "Ox66n6WNyXg",
@@ -57,9 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/Ox66n6WNyXg/mqdefault.jpg",
       "publishedAt": "2026-06-21T04:00:07Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 31489,
-      "likeCount": 995,
-      "commentCount": 114
+      "viewCount": 37567,
+      "likeCount": 1152,
+      "commentCount": 130
+    },
+    {
+      "videoId": "oYdDSxxdXrI",
+      "title": "Ngự thú sư mạnh nhất Tập 679-680 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/oYdDSxxdXrI/mqdefault.jpg",
+      "publishedAt": "2026-06-23T12:01:21Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 34758,
+      "likeCount": 1425,
+      "commentCount": 97
+    },
+    {
+      "videoId": "MOyD8YUdwnc",
+      "title": "(Full 1-65) Kẻ Dưới Đáy Xã Hội Trở Thành Ông Trùm Hắc Đạo | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/MOyD8YUdwnc/mqdefault.jpg",
+      "publishedAt": "2026-06-20T04:00:08Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 31621,
+      "likeCount": 588,
+      "commentCount": 40
     }
   ]
 }
