@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-28T03:01:07.548Z",
+  "scannedAt": "2026-06-28T12:01:09.830Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "Ox66n6WNyXg",
-      "title": "(Full 1-60) Tội Phạm Hoàn Hảo | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/Ox66n6WNyXg/mqdefault.jpg",
-      "publishedAt": "2026-06-21T04:00:07Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 73628,
-      "likeCount": 2044,
-      "commentCount": 185
-    },
-    {
       "videoId": "oYdDSxxdXrI",
       "title": "Ngự thú sư mạnh nhất Tập 679-680 | Mỳ Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/oYdDSxxdXrI/mqdefault.jpg",
       "publishedAt": "2026-06-23T12:01:21Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 40038,
-      "likeCount": 1490,
+      "viewCount": 40971,
+      "likeCount": 1504,
       "commentCount": 100
     },
     {
@@ -37,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/FjYLxtiBQgQ/mqdefault.jpg",
       "publishedAt": "2026-06-25T11:37:40Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 32114,
-      "likeCount": 1422,
-      "commentCount": 108
-    },
-    {
-      "videoId": "3EQmHgbJGHk",
-      "title": "Sát Thần Đến Từ Vùng Đất Hoang | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/3EQmHgbJGHk/mqdefault.jpg",
-      "publishedAt": "2026-06-24T04:00:22Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 26553,
-      "likeCount": 614,
-      "commentCount": 50
+      "viewCount": 33427,
+      "likeCount": 1440,
+      "commentCount": 111
     },
     {
       "videoId": "zg2Ibh-Xoiw",
@@ -57,9 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/zg2Ibh-Xoiw/mqdefault.jpg",
       "publishedAt": "2026-06-24T10:00:08Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 23215,
-      "likeCount": 536,
-      "commentCount": 51
+      "viewCount": 30614,
+      "likeCount": 605,
+      "commentCount": 55
+    },
+    {
+      "videoId": "3EQmHgbJGHk",
+      "title": "Sát Thần Đến Từ Vùng Đất Hoang | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/3EQmHgbJGHk/mqdefault.jpg",
+      "publishedAt": "2026-06-24T04:00:22Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 29896,
+      "likeCount": 671,
+      "commentCount": 53
+    },
+    {
+      "videoId": "Z9JDHrwH8Mw",
+      "title": "Ngự thú sư mạnh nhất Tập 683-684 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/Z9JDHrwH8Mw/mqdefault.jpg",
+      "publishedAt": "2026-06-27T10:58:41Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 24324,
+      "likeCount": 1241,
+      "commentCount": 82
     }
   ]
 }
