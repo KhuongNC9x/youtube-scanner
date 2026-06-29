@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-06-29T03:01:08.631Z",
+  "scannedAt": "2026-06-29T12:01:12.281Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,24 @@
   ],
   "top5": [
     {
+      "videoId": "zg2Ibh-Xoiw",
+      "title": "(Full Mùa 1) Kết Hôn Nhầm Với Nữ Tổng Tài | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/zg2Ibh-Xoiw/mqdefault.jpg",
+      "publishedAt": "2026-06-24T10:00:08Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 42984,
+      "likeCount": 791,
+      "commentCount": 65
+    },
+    {
       "videoId": "oYdDSxxdXrI",
       "title": "Ngự thú sư mạnh nhất Tập 679-680 | Mỳ Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/oYdDSxxdXrI/mqdefault.jpg",
       "publishedAt": "2026-06-23T12:01:21Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 41649,
-      "likeCount": 1511,
+      "viewCount": 42336,
+      "likeCount": 1516,
       "commentCount": 100
-    },
-    {
-      "videoId": "FjYLxtiBQgQ",
-      "title": "Ngự thú sư mạnh nhất Tập 681-682 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/FjYLxtiBQgQ/mqdefault.jpg",
-      "publishedAt": "2026-06-25T11:37:40Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 34626,
-      "likeCount": 1462,
-      "commentCount": 111
     },
     {
       "videoId": "3EQmHgbJGHk",
@@ -37,19 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/3EQmHgbJGHk/mqdefault.jpg",
       "publishedAt": "2026-06-24T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 34547,
-      "likeCount": 763,
+      "viewCount": 40993,
+      "likeCount": 844,
       "commentCount": 55
     },
     {
-      "videoId": "zg2Ibh-Xoiw",
-      "title": "(Full Mùa 1) Kết Hôn Nhầm Với Nữ Tổng Tài | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/zg2Ibh-Xoiw/mqdefault.jpg",
-      "publishedAt": "2026-06-24T10:00:08Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 34476,
-      "likeCount": 694,
-      "commentCount": 61
+      "videoId": "FjYLxtiBQgQ",
+      "title": "Ngự thú sư mạnh nhất Tập 681-682 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/FjYLxtiBQgQ/mqdefault.jpg",
+      "publishedAt": "2026-06-25T11:37:40Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 35530,
+      "likeCount": 1474,
+      "commentCount": 111
     },
     {
       "videoId": "Z9JDHrwH8Mw",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/Z9JDHrwH8Mw/mqdefault.jpg",
       "publishedAt": "2026-06-27T10:58:41Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 27320,
-      "likeCount": 1327,
-      "commentCount": 89
+      "viewCount": 29406,
+      "likeCount": 1363,
+      "commentCount": 92
     }
   ]
 }
