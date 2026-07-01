@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-01T03:01:07.455Z",
+  "scannedAt": "2026-07-01T12:01:09.744Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,34 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "zg2Ibh-Xoiw",
-      "title": "(Full Mùa 1) Kết Hôn Nhầm Với Nữ Tổng Tài | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/zg2Ibh-Xoiw/mqdefault.jpg",
-      "publishedAt": "2026-06-24T10:00:08Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 62668,
-      "likeCount": 1070,
-      "commentCount": 78
-    },
-    {
-      "videoId": "3EQmHgbJGHk",
-      "title": "Sát Thần Đến Từ Vùng Đất Hoang | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/3EQmHgbJGHk/mqdefault.jpg",
-      "publishedAt": "2026-06-24T04:00:22Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 57731,
-      "likeCount": 1099,
-      "commentCount": 68
-    },
-    {
       "videoId": "FC2sbc6pk1c",
       "title": "(Full 1-83) Toàn Dân Sinh Tồn Trên Cáp Treo Tôi Có Thể Rút Thiên Phú Vô Hạn | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/FC2sbc6pk1c/mqdefault.jpg",
       "publishedAt": "2026-06-27T10:00:01Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 45680,
-      "likeCount": 1137,
-      "commentCount": 64
+      "viewCount": 58260,
+      "likeCount": 1372,
+      "commentCount": 73
     },
     {
       "videoId": "FjYLxtiBQgQ",
@@ -47,9 +27,19 @@
       "thumbnail": "https://i.ytimg.com/vi/FjYLxtiBQgQ/mqdefault.jpg",
       "publishedAt": "2026-06-25T11:37:40Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 37852,
-      "likeCount": 1505,
+      "viewCount": 38450,
+      "likeCount": 1512,
       "commentCount": 111
+    },
+    {
+      "videoId": "n5XRzX7AUCM",
+      "title": "(Full Mùa 1) Hệ Thống Hồ Câu Tỷ Phú Hoàn Tiền x10 | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/n5XRzX7AUCM/mqdefault.jpg",
+      "publishedAt": "2026-06-25T04:00:10Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 35591,
+      "likeCount": 768,
+      "commentCount": 36
     },
     {
       "videoId": "Z9JDHrwH8Mw",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/Z9JDHrwH8Mw/mqdefault.jpg",
       "publishedAt": "2026-06-27T10:58:41Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 34397,
-      "likeCount": 1430,
+      "viewCount": 35475,
+      "likeCount": 1442,
       "commentCount": 94
+    },
+    {
+      "videoId": "UJiHakXbP1c",
+      "title": "Ngự thú sư mạnh nhất Tập 685-686 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/UJiHakXbP1c/mqdefault.jpg",
+      "publishedAt": "2026-06-30T11:36:46Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 23562,
+      "likeCount": 1207,
+      "commentCount": 83
     }
   ]
 }
