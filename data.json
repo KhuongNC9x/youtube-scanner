@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-02T03:01:15.072Z",
+  "scannedAt": "2026-07-02T12:01:05.856Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,29 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/FC2sbc6pk1c/mqdefault.jpg",
       "publishedAt": "2026-06-27T10:00:01Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 73982,
-      "likeCount": 1619,
-      "commentCount": 84
-    },
-    {
-      "videoId": "FjYLxtiBQgQ",
-      "title": "Ngự thú sư mạnh nhất Tập 681-682 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/FjYLxtiBQgQ/mqdefault.jpg",
-      "publishedAt": "2026-06-25T11:37:40Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 38939,
-      "likeCount": 1522,
-      "commentCount": 111
-    },
-    {
-      "videoId": "n5XRzX7AUCM",
-      "title": "(Full Mùa 1) Hệ Thống Hồ Câu Tỷ Phú Hoàn Tiền x10 | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/n5XRzX7AUCM/mqdefault.jpg",
-      "publishedAt": "2026-06-25T04:00:10Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 37983,
-      "likeCount": 795,
-      "commentCount": 39
+      "viewCount": 92298,
+      "likeCount": 1916,
+      "commentCount": 95
     },
     {
       "videoId": "Z9JDHrwH8Mw",
@@ -47,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/Z9JDHrwH8Mw/mqdefault.jpg",
       "publishedAt": "2026-06-27T10:58:41Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 36254,
-      "likeCount": 1456,
+      "viewCount": 36958,
+      "likeCount": 1467,
       "commentCount": 94
     },
     {
@@ -57,9 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/UJiHakXbP1c/mqdefault.jpg",
       "publishedAt": "2026-06-30T11:36:46Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 26510,
-      "likeCount": 1258,
-      "commentCount": 84
+      "viewCount": 28482,
+      "likeCount": 1299,
+      "commentCount": 85
+    },
+    {
+      "videoId": "rBK4TiXfPJ0",
+      "title": "(Full 1-60) Hệ Thống Nạp Tiền Tu Tiên 1 Tệ 1 Năm Tu Vi | THIẾT REVIEW",
+      "thumbnail": "https://i.ytimg.com/vi/rBK4TiXfPJ0/mqdefault.jpg",
+      "publishedAt": "2026-06-26T04:00:32Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 24467,
+      "likeCount": 545,
+      "commentCount": 32
+    },
+    {
+      "videoId": "LAPL--qJdOY",
+      "title": "Full Mùa 1 | Thức Tỉnh Dị Năng Nữ Hoá Tôi Biến Cả Thế Giới Thành Con Gái | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/LAPL--qJdOY/mqdefault.jpg",
+      "publishedAt": "2026-06-29T04:00:35Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 14589,
+      "likeCount": 349,
+      "commentCount": 34
     }
   ]
 }
