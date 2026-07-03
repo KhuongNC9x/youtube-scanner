@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-03T03:01:08.871Z",
+  "scannedAt": "2026-07-03T12:01:13.345Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/FC2sbc6pk1c/mqdefault.jpg",
       "publishedAt": "2026-06-27T10:00:01Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 109082,
-      "likeCount": 2149,
-      "commentCount": 105
+      "viewCount": 128174,
+      "likeCount": 2459,
+      "commentCount": 119
     },
     {
       "videoId": "Z9JDHrwH8Mw",
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/Z9JDHrwH8Mw/mqdefault.jpg",
       "publishedAt": "2026-06-27T10:58:41Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 37716,
-      "likeCount": 1481,
+      "viewCount": 38355,
+      "likeCount": 1491,
       "commentCount": 94
     },
     {
@@ -37,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UJiHakXbP1c/mqdefault.jpg",
       "publishedAt": "2026-06-30T11:36:46Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 30199,
-      "likeCount": 1325,
+      "viewCount": 31422,
+      "likeCount": 1344,
       "commentCount": 86
-    },
-    {
-      "videoId": "rBK4TiXfPJ0",
-      "title": "(Full 1-60) Hệ Thống Nạp Tiền Tu Tiên 1 Tệ 1 Năm Tu Vi | THIẾT REVIEW",
-      "thumbnail": "https://i.ytimg.com/vi/rBK4TiXfPJ0/mqdefault.jpg",
-      "publishedAt": "2026-06-26T04:00:32Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 26036,
-      "likeCount": 574,
-      "commentCount": 34
     },
     {
       "videoId": "o1fPwHBmJf8",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/o1fPwHBmJf8/mqdefault.jpg",
       "publishedAt": "2026-07-02T10:11:56Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 17539,
-      "likeCount": 1102,
-      "commentCount": 69
+      "viewCount": 21748,
+      "likeCount": 1238,
+      "commentCount": 78
+    },
+    {
+      "videoId": "LAPL--qJdOY",
+      "title": "Full Mùa 1 | Thức Tỉnh Dị Năng Nữ Hoá Tôi Biến Cả Thế Giới Thành Con Gái | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/LAPL--qJdOY/mqdefault.jpg",
+      "publishedAt": "2026-06-29T04:00:35Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 16806,
+      "likeCount": 392,
+      "commentCount": 36
     }
   ]
 }
