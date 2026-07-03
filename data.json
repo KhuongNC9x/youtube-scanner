@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-02T12:01:05.856Z",
+  "scannedAt": "2026-07-03T03:01:08.871Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/FC2sbc6pk1c/mqdefault.jpg",
       "publishedAt": "2026-06-27T10:00:01Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 92298,
-      "likeCount": 1916,
-      "commentCount": 95
+      "viewCount": 109082,
+      "likeCount": 2149,
+      "commentCount": 105
     },
     {
       "videoId": "Z9JDHrwH8Mw",
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/Z9JDHrwH8Mw/mqdefault.jpg",
       "publishedAt": "2026-06-27T10:58:41Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 36958,
-      "likeCount": 1467,
+      "viewCount": 37716,
+      "likeCount": 1481,
       "commentCount": 94
     },
     {
@@ -37,9 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UJiHakXbP1c/mqdefault.jpg",
       "publishedAt": "2026-06-30T11:36:46Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 28482,
-      "likeCount": 1299,
-      "commentCount": 85
+      "viewCount": 30199,
+      "likeCount": 1325,
+      "commentCount": 86
     },
     {
       "videoId": "rBK4TiXfPJ0",
@@ -47,19 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/rBK4TiXfPJ0/mqdefault.jpg",
       "publishedAt": "2026-06-26T04:00:32Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 24467,
-      "likeCount": 545,
-      "commentCount": 32
+      "viewCount": 26036,
+      "likeCount": 574,
+      "commentCount": 34
     },
     {
-      "videoId": "LAPL--qJdOY",
-      "title": "Full Mùa 1 | Thức Tỉnh Dị Năng Nữ Hoá Tôi Biến Cả Thế Giới Thành Con Gái | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/LAPL--qJdOY/mqdefault.jpg",
-      "publishedAt": "2026-06-29T04:00:35Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 14589,
-      "likeCount": 349,
-      "commentCount": 34
+      "videoId": "o1fPwHBmJf8",
+      "title": "Ngự thú sư mạnh nhất Tập 687-688 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/o1fPwHBmJf8/mqdefault.jpg",
+      "publishedAt": "2026-07-02T10:11:56Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 17539,
+      "likeCount": 1102,
+      "commentCount": 69
     }
   ]
 }
