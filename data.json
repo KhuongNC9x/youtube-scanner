@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-05T03:01:13.459Z",
+  "scannedAt": "2026-07-05T12:01:19.910Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/UJiHakXbP1c/mqdefault.jpg",
       "publishedAt": "2026-06-30T11:36:46Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 34821,
-      "likeCount": 1393,
+      "viewCount": 35676,
+      "likeCount": 1406,
       "commentCount": 87
     },
     {
@@ -27,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/o1fPwHBmJf8/mqdefault.jpg",
       "publishedAt": "2026-07-02T10:11:56Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 28353,
-      "likeCount": 1367,
-      "commentCount": 90
+      "viewCount": 29517,
+      "likeCount": 1391,
+      "commentCount": 91
     },
     {
       "videoId": "o5KmiSEk_Jg",
@@ -37,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/o5KmiSEk_Jg/mqdefault.jpg",
       "publishedAt": "2026-06-30T10:00:03Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 21112,
-      "likeCount": 685,
-      "commentCount": 53
-    },
-    {
-      "videoId": "LAPL--qJdOY",
-      "title": "Full Mùa 1 | Thức Tỉnh Dị Năng Nữ Hoá Tôi Biến Cả Thế Giới Thành Con Gái | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/LAPL--qJdOY/mqdefault.jpg",
-      "publishedAt": "2026-06-29T04:00:35Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 19160,
-      "likeCount": 423,
-      "commentCount": 39
+      "viewCount": 24114,
+      "likeCount": 811,
+      "commentCount": 58
     },
     {
       "videoId": "Qt02iQUKVGM",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/Qt02iQUKVGM/mqdefault.jpg",
       "publishedAt": "2026-07-04T11:58:51Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 17757,
-      "likeCount": 1115,
-      "commentCount": 65
+      "viewCount": 23581,
+      "likeCount": 1265,
+      "commentCount": 75
+    },
+    {
+      "videoId": "LAPL--qJdOY",
+      "title": "Full Mùa 1 | Thức Tỉnh Dị Năng Nữ Hoá Tôi Biến Cả Thế Giới Thành Con Gái | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/LAPL--qJdOY/mqdefault.jpg",
+      "publishedAt": "2026-06-29T04:00:35Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 20571,
+      "likeCount": 465,
+      "commentCount": 40
     }
   ]
 }
