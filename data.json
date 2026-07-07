@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-07T03:01:23.107Z",
+  "scannedAt": "2026-07-07T12:01:25.765Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,33 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "o5KmiSEk_Jg",
-      "title": "Full 1-100 | Toàn Dân Sinh Tồn Trong Khu Rừng Nguyên Sinh | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/o5KmiSEk_Jg/mqdefault.jpg",
-      "publishedAt": "2026-06-30T10:00:03Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 43863,
-      "likeCount": 1247,
-      "commentCount": 73
-    },
-    {
-      "videoId": "UJiHakXbP1c",
-      "title": "Ngự thú sư mạnh nhất Tập 685-686 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/UJiHakXbP1c/mqdefault.jpg",
-      "publishedAt": "2026-06-30T11:36:46Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 37924,
-      "likeCount": 1434,
-      "commentCount": 87
-    },
-    {
       "videoId": "o1fPwHBmJf8",
       "title": "Ngự thú sư mạnh nhất Tập 687-688 | Mỳ Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/o1fPwHBmJf8/mqdefault.jpg",
       "publishedAt": "2026-07-02T10:11:56Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 32043,
-      "likeCount": 1444,
+      "viewCount": 32674,
+      "likeCount": 1457,
       "commentCount": 91
     },
     {
@@ -47,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/Qt02iQUKVGM/mqdefault.jpg",
       "publishedAt": "2026-07-04T11:58:51Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 31054,
-      "likeCount": 1419,
-      "commentCount": 84
+      "viewCount": 32507,
+      "likeCount": 1449,
+      "commentCount": 86
     },
     {
       "videoId": "3IIazI6f19w",
@@ -57,8 +37,28 @@
       "thumbnail": "https://i.ytimg.com/vi/3IIazI6f19w/mqdefault.jpg",
       "publishedAt": "2026-07-01T04:00:36Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 24366,
-      "likeCount": 624,
+      "viewCount": 30320,
+      "likeCount": 710,
+      "commentCount": 45
+    },
+    {
+      "videoId": "ehpFDFlF8oQ",
+      "title": "Full 1-120 | Làm Bố Kiểu GEN Z | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/ehpFDFlF8oQ/mqdefault.jpg",
+      "publishedAt": "2026-07-03T04:00:16Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 17260,
+      "likeCount": 477,
+      "commentCount": 22
+    },
+    {
+      "videoId": "Uzy0MVoqN70",
+      "title": "Full 1-30 | Tận Thế Ta Thức Tỉnh Song Dị Năng SSS Mạnh Nhất | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/Uzy0MVoqN70/mqdefault.jpg",
+      "publishedAt": "2026-07-05T10:00:33Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 13945,
+      "likeCount": 427,
       "commentCount": 44
     }
   ]
