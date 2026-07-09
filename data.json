@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-09T03:01:27.180Z",
+  "scannedAt": "2026-07-09T12:01:20.301Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,19 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/Qt02iQUKVGM/mqdefault.jpg",
       "publishedAt": "2026-07-04T11:58:51Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 35787,
-      "likeCount": 1411,
+      "viewCount": 36413,
+      "likeCount": 1427,
       "commentCount": 88
-    },
-    {
-      "videoId": "o1fPwHBmJf8",
-      "title": "Ngự thú sư mạnh nhất Tập 687-688 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/o1fPwHBmJf8/mqdefault.jpg",
-      "publishedAt": "2026-07-02T10:11:56Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 34543,
-      "likeCount": 1443,
-      "commentCount": 92
     },
     {
       "videoId": "F7u7AVWp4c0",
@@ -37,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/F7u7AVWp4c0/mqdefault.jpg",
       "publishedAt": "2026-07-07T12:04:05Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 26439,
-      "likeCount": 1265,
-      "commentCount": 123
+      "viewCount": 28446,
+      "likeCount": 1324,
+      "commentCount": 129
     },
     {
       "videoId": "ehpFDFlF8oQ",
@@ -47,9 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/ehpFDFlF8oQ/mqdefault.jpg",
       "publishedAt": "2026-07-03T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 23616,
-      "likeCount": 586,
-      "commentCount": 24
+      "viewCount": 25546,
+      "likeCount": 621,
+      "commentCount": 26
     },
     {
       "videoId": "kY080BZ_Ptc",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/kY080BZ_Ptc/mqdefault.jpg",
       "publishedAt": "2026-07-04T04:00:17Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 20147,
-      "likeCount": 516,
-      "commentCount": 45
+      "viewCount": 21885,
+      "likeCount": 538,
+      "commentCount": 50
+    },
+    {
+      "videoId": "Uzy0MVoqN70",
+      "title": "Full 1-30 | Tận Thế Ta Thức Tỉnh Song Dị Năng SSS Mạnh Nhất | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/Uzy0MVoqN70/mqdefault.jpg",
+      "publishedAt": "2026-07-05T10:00:33Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 19209,
+      "likeCount": 476,
+      "commentCount": 49
     }
   ]
 }
