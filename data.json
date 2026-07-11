@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-11T03:01:18.688Z",
+  "scannedAt": "2026-07-11T12:01:20.984Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "Qt02iQUKVGM",
-      "title": "Ngự thú sư mạnh nhất Tập 689-690 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/Qt02iQUKVGM/mqdefault.jpg",
-      "publishedAt": "2026-07-04T11:58:51Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 38315,
-      "likeCount": 1472,
-      "commentCount": 88
-    },
-    {
       "videoId": "F7u7AVWp4c0",
       "title": "Ngự thú sư mạnh nhất Tập 691-692 | Mỳ Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/F7u7AVWp4c0/mqdefault.jpg",
       "publishedAt": "2026-07-07T12:04:05Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 33203,
-      "likeCount": 1415,
+      "viewCount": 33962,
+      "likeCount": 1435,
       "commentCount": 130
     },
     {
@@ -37,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/RHUAGH5vPe4/mqdefault.jpg",
       "publishedAt": "2026-07-09T10:18:42Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 30821,
-      "likeCount": 1353,
-      "commentCount": 102
+      "viewCount": 32537,
+      "likeCount": 1394,
+      "commentCount": 107
     },
     {
       "videoId": "qhBez9YhKo8",
@@ -47,9 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/qhBez9YhKo8/mqdefault.jpg",
       "publishedAt": "2026-07-05T04:00:23Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 26590,
-      "likeCount": 669,
-      "commentCount": 59
+      "viewCount": 29500,
+      "likeCount": 708,
+      "commentCount": 62
     },
     {
       "videoId": "Uzy0MVoqN70",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/Uzy0MVoqN70/mqdefault.jpg",
       "publishedAt": "2026-07-05T10:00:33Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 23636,
-      "likeCount": 548,
-      "commentCount": 55
+      "viewCount": 25690,
+      "likeCount": 570,
+      "commentCount": 56
+    },
+    {
+      "videoId": "UuyJEh373VU",
+      "title": "Full Version | Bộ Ba Báo Thủ Vặn Ốc Vít | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/UuyJEh373VU/mqdefault.jpg",
+      "publishedAt": "2026-07-06T04:00:25Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 20815,
+      "likeCount": 427,
+      "commentCount": 24
     }
   ]
 }
