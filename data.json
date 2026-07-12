@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-12T03:01:22.474Z",
+  "scannedAt": "2026-07-12T12:01:25.438Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,13 +12,23 @@
   ],
   "top5": [
     {
+      "videoId": "OEvRSSe9moc",
+      "title": "Full Có Kết| Kẻ Trốn Tìm IQ 1 Tỷ | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/OEvRSSe9moc/mqdefault.jpg",
+      "publishedAt": "2026-07-11T04:19:16Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 42240,
+      "likeCount": 992,
+      "commentCount": 28
+    },
+    {
       "videoId": "F7u7AVWp4c0",
       "title": "Ngự thú sư mạnh nhất Tập 691-692 | Mỳ Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/F7u7AVWp4c0/mqdefault.jpg",
       "publishedAt": "2026-07-07T12:04:05Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 35620,
-      "likeCount": 1474,
+      "viewCount": 36674,
+      "likeCount": 1497,
       "commentCount": 130
     },
     {
@@ -27,29 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/RHUAGH5vPe4/mqdefault.jpg",
       "publishedAt": "2026-07-09T10:18:42Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 34814,
-      "likeCount": 1436,
-      "commentCount": 111
-    },
-    {
-      "videoId": "qhBez9YhKo8",
-      "title": "Full End | Cầu Hôn Hoa Khôi Thất Bại 99 Lần Tôi Kích Hoạt Hệ Thống Từ Chối Ăn Bám | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/qhBez9YhKo8/mqdefault.jpg",
-      "publishedAt": "2026-07-05T04:00:23Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 31849,
-      "likeCount": 737,
-      "commentCount": 65
-    },
-    {
-      "videoId": "Uzy0MVoqN70",
-      "title": "Full 1-30 | Tận Thế Ta Thức Tỉnh Song Dị Năng SSS Mạnh Nhất | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/Uzy0MVoqN70/mqdefault.jpg",
-      "publishedAt": "2026-07-05T10:00:33Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 28568,
-      "likeCount": 591,
-      "commentCount": 58
+      "viewCount": 36139,
+      "likeCount": 1457,
+      "commentCount": 113
     },
     {
       "videoId": "MzK0aRk-o-E",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/MzK0aRk-o-E/mqdefault.jpg",
       "publishedAt": "2026-07-11T09:51:18Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 28327,
-      "likeCount": 1514,
-      "commentCount": 100
+      "viewCount": 34839,
+      "likeCount": 1615,
+      "commentCount": 108
+    },
+    {
+      "videoId": "gJI_rc4qWoI",
+      "title": "Full 1-25 | Hệ Thống Đòi Nợ Cấp Thần Thu Lãi x10000% | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/gJI_rc4qWoI/mqdefault.jpg",
+      "publishedAt": "2026-07-08T10:00:21Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 25352,
+      "likeCount": 723,
+      "commentCount": 30
     }
   ]
 }
