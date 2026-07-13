@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-12T12:01:25.438Z",
+  "scannedAt": "2026-07-13T03:01:17.176Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,29 @@
       "thumbnail": "https://i.ytimg.com/vi/OEvRSSe9moc/mqdefault.jpg",
       "publishedAt": "2026-07-11T04:19:16Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 42240,
-      "likeCount": 992,
-      "commentCount": 28
+      "viewCount": 72105,
+      "likeCount": 1463,
+      "commentCount": 33
+    },
+    {
+      "videoId": "gJI_rc4qWoI",
+      "title": "Full 1-25 | Hệ Thống Đòi Nợ Cấp Thần Thu Lãi x10000% | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/gJI_rc4qWoI/mqdefault.jpg",
+      "publishedAt": "2026-07-08T10:00:21Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 42584,
+      "likeCount": 1024,
+      "commentCount": 36
+    },
+    {
+      "videoId": "MzK0aRk-o-E",
+      "title": "Ngự thú sư mạnh nhất Tập 695-696 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/MzK0aRk-o-E/mqdefault.jpg",
+      "publishedAt": "2026-07-11T09:51:18Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 38368,
+      "likeCount": 1691,
+      "commentCount": 109
     },
     {
       "videoId": "F7u7AVWp4c0",
@@ -27,8 +47,8 @@
       "thumbnail": "https://i.ytimg.com/vi/F7u7AVWp4c0/mqdefault.jpg",
       "publishedAt": "2026-07-07T12:04:05Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 36674,
-      "likeCount": 1497,
+      "viewCount": 37426,
+      "likeCount": 1519,
       "commentCount": 130
     },
     {
@@ -37,29 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/RHUAGH5vPe4/mqdefault.jpg",
       "publishedAt": "2026-07-09T10:18:42Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 36139,
-      "likeCount": 1457,
+      "viewCount": 37207,
+      "likeCount": 1485,
       "commentCount": 113
-    },
-    {
-      "videoId": "MzK0aRk-o-E",
-      "title": "Ngự thú sư mạnh nhất Tập 695-696 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/MzK0aRk-o-E/mqdefault.jpg",
-      "publishedAt": "2026-07-11T09:51:18Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 34839,
-      "likeCount": 1615,
-      "commentCount": 108
-    },
-    {
-      "videoId": "gJI_rc4qWoI",
-      "title": "Full 1-25 | Hệ Thống Đòi Nợ Cấp Thần Thu Lãi x10000% | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/gJI_rc4qWoI/mqdefault.jpg",
-      "publishedAt": "2026-07-08T10:00:21Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 25352,
-      "likeCount": 723,
-      "commentCount": 30
     }
   ]
 }
