@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-13T12:01:27.294Z",
+  "scannedAt": "2026-07-14T03:01:26.741Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/OEvRSSe9moc/mqdefault.jpg",
       "publishedAt": "2026-07-11T04:19:16Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 148572,
-      "likeCount": 2207,
-      "commentCount": 52
+      "viewCount": 179744,
+      "likeCount": 2509,
+      "commentCount": 60
     },
     {
       "videoId": "gJI_rc4qWoI",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/gJI_rc4qWoI/mqdefault.jpg",
       "publishedAt": "2026-07-08T10:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 65222,
-      "likeCount": 1310,
-      "commentCount": 43
-    },
-    {
-      "videoId": "MzK0aRk-o-E",
-      "title": "Ngự thú sư mạnh nhất Tập 695-696 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/MzK0aRk-o-E/mqdefault.jpg",
-      "publishedAt": "2026-07-11T09:51:18Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 41172,
-      "likeCount": 1749,
-      "commentCount": 112
+      "viewCount": 77197,
+      "likeCount": 1491,
+      "commentCount": 52
     },
     {
       "videoId": "EgY0KMZL2lI",
@@ -47,19 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/EgY0KMZL2lI/mqdefault.jpg",
       "publishedAt": "2026-07-11T07:34:38Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 41108,
-      "likeCount": 1467,
-      "commentCount": 107
+      "viewCount": 47424,
+      "likeCount": 1626,
+      "commentCount": 112
     },
     {
-      "videoId": "RHUAGH5vPe4",
-      "title": "Ngự thú sư mạnh nhất Tập 693-694 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/RHUAGH5vPe4/mqdefault.jpg",
-      "publishedAt": "2026-07-09T10:18:42Z",
+      "videoId": "MzK0aRk-o-E",
+      "title": "Ngự thú sư mạnh nhất Tập 695-696 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/MzK0aRk-o-E/mqdefault.jpg",
+      "publishedAt": "2026-07-11T09:51:18Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 38129,
-      "likeCount": 1500,
-      "commentCount": 113
+      "viewCount": 43404,
+      "likeCount": 1787,
+      "commentCount": 119
+    },
+    {
+      "videoId": "6zwOYHYZGNc",
+      "title": "Full 1-25 | Kẻ Điên Trong Trò Chơi Sinh Tồn Đảo Tù Nhân | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/6zwOYHYZGNc/mqdefault.jpg",
+      "publishedAt": "2026-07-10T10:15:14Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 43025,
+      "likeCount": 1242,
+      "commentCount": 39
     }
   ]
 }
