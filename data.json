@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-20T03:00:56.348Z",
+  "scannedAt": "2026-07-20T12:01:01.285Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "xAeA9az47uA",
-      "title": "Full 1-35 | Toàn Dân Sinh Tồn Ký Túc Xá Tôi Là Sát Thần Mạnh Nhất | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/xAeA9az47uA/mqdefault.jpg",
-      "publishedAt": "2026-07-13T04:00:04Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 65006,
-      "likeCount": 973,
-      "commentCount": 53
-    },
-    {
       "videoId": "le5cClwR8NM",
       "title": "Ngự thú sư mạnh nhất Tập 697-698 | Mỳ Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/le5cClwR8NM/mqdefault.jpg",
       "publishedAt": "2026-07-14T10:59:13Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 47988,
-      "likeCount": 1831,
+      "viewCount": 48526,
+      "likeCount": 1840,
       "commentCount": 142
     },
     {
@@ -37,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/lYd8pqtwgt4/mqdefault.jpg",
       "publishedAt": "2026-07-16T11:03:09Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 46974,
-      "likeCount": 1946,
-      "commentCount": 129
-    },
-    {
-      "videoId": "IBUIuYs0eyE",
-      "title": "Full 1-15 | Biệt Đội Đặc Chiến Hoa Hồng Mạnh Nhất | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/IBUIuYs0eyE/mqdefault.jpg",
-      "publishedAt": "2026-07-13T10:00:15Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 27975,
-      "likeCount": 502,
-      "commentCount": 33
+      "viewCount": 48110,
+      "likeCount": 1961,
+      "commentCount": 130
     },
     {
       "videoId": "cxsc_dtSDH8",
@@ -57,9 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/cxsc_dtSDH8/mqdefault.jpg",
       "publishedAt": "2026-07-14T05:08:12Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 25624,
-      "likeCount": 540,
+      "viewCount": 27240,
+      "likeCount": 548,
       "commentCount": 27
+    },
+    {
+      "videoId": "xYoTQgzjGsQ",
+      "title": "Hệ Thống Có Vay Có Trả Full 1-30 | Mỳ Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/xYoTQgzjGsQ/mqdefault.jpg",
+      "publishedAt": "2026-07-15T10:43:31Z",
+      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
+      "viewCount": 23144,
+      "likeCount": 526,
+      "commentCount": 22
+    },
+    {
+      "videoId": "0Pthhq-aHho",
+      "title": "Full 1-150 | Tuyệt Thế Sát Thần Vô Hạn Khí Huyết | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/0Pthhq-aHho/mqdefault.jpg",
+      "publishedAt": "2026-07-17T04:00:03Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 21882,
+      "likeCount": 530,
+      "commentCount": 55
     }
   ]
 }
