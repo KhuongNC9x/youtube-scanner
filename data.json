@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-22T03:00:52.210Z",
+  "scannedAt": "2026-07-22T12:01:00.331Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/lYd8pqtwgt4/mqdefault.jpg",
       "publishedAt": "2026-07-16T11:03:09Z",
       "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 51414,
-      "likeCount": 2005,
+      "viewCount": 52332,
+      "likeCount": 2008,
       "commentCount": 138
     },
     {
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/0Pthhq-aHho/mqdefault.jpg",
       "publishedAt": "2026-07-17T04:00:03Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 25057,
-      "likeCount": 577,
+      "viewCount": 26033,
+      "likeCount": 587,
       "commentCount": 57
-    },
-    {
-      "videoId": "xYoTQgzjGsQ",
-      "title": "Hệ Thống Có Vay Có Trả Full 1-30 | Mỳ Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/xYoTQgzjGsQ/mqdefault.jpg",
-      "publishedAt": "2026-07-15T10:43:31Z",
-      "channelLabel": "Ngư Thủ Sư Mạnh Nhất Mỹ",
-      "viewCount": 23988,
-      "likeCount": 534,
-      "commentCount": 22
     },
     {
       "videoId": "C2nVQvSk2EU",
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/C2nVQvSk2EU/mqdefault.jpg",
       "publishedAt": "2026-07-15T13:16:26Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 15147,
-      "likeCount": 685,
-      "commentCount": 112
+      "viewCount": 15753,
+      "likeCount": 696,
+      "commentCount": 113
+    },
+    {
+      "videoId": "GYqLvE3ueQg",
+      "title": "FULL ( Tập 1-50 ) | Thức Tỉnh Thiên Phú Cụ Hoá SSS | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/GYqLvE3ueQg/mqdefault.jpg",
+      "publishedAt": "2026-07-16T04:00:21Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 12108,
+      "likeCount": 327,
+      "commentCount": 14
     },
     {
       "videoId": "d0WMlrg1ArY",
@@ -57,8 +57,8 @@
       "thumbnail": "https://i.ytimg.com/vi/d0WMlrg1ArY/mqdefault.jpg",
       "publishedAt": "2026-07-18T03:14:09Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 11324,
-      "likeCount": 253,
+      "viewCount": 12062,
+      "likeCount": 258,
       "commentCount": 47
     }
   ]
