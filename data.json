@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-24T03:00:58.856Z",
+  "scannedAt": "2026-07-24T12:01:05.441Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,34 @@
   ],
   "top5": [
     {
-      "videoId": "0Pthhq-aHho",
-      "title": "Full 1-150 | Tuyệt Thế Sát Thần Vô Hạn Khí Huyết | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/0Pthhq-aHho/mqdefault.jpg",
-      "publishedAt": "2026-07-17T04:00:03Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 28315,
-      "likeCount": 614,
-      "commentCount": 58
-    },
-    {
       "videoId": "d0WMlrg1ArY",
       "title": "Full Mùa 1 | Toàn Cầu Sát Cơ Ta Quét Sạch Quỷ Dị Trong Ký Túc Xá | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/d0WMlrg1ArY/mqdefault.jpg",
       "publishedAt": "2026-07-18T03:14:09Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13904,
-      "likeCount": 280,
+      "viewCount": 14939,
+      "likeCount": 290,
       "commentCount": 47
+    },
+    {
+      "videoId": "n7L-oo3XBKs",
+      "title": "Full End | Cả Nhà Tôi Đều Là Xã Hội Đen | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/n7L-oo3XBKs/mqdefault.jpg",
+      "publishedAt": "2026-07-23T04:00:21Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 14533,
+      "likeCount": 445,
+      "commentCount": 21
+    },
+    {
+      "videoId": "dB_oYUXrbuI",
+      "title": "Full Mùa 1 | Linh Sủng Của Ta Là Cấp Chúa Tể | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/dB_oYUXrbuI/mqdefault.jpg",
+      "publishedAt": "2026-07-22T04:00:31Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 14102,
+      "likeCount": 310,
+      "commentCount": 18
     },
     {
       "videoId": "Yi6dG1rZpko",
@@ -37,8 +47,8 @@
       "thumbnail": "https://i.ytimg.com/vi/Yi6dG1rZpko/mqdefault.jpg",
       "publishedAt": "2026-07-19T04:00:04Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12867,
-      "likeCount": 276,
+      "viewCount": 13227,
+      "likeCount": 278,
       "commentCount": 24
     },
     {
@@ -47,19 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/YqjKwCHQPCY/mqdefault.jpg",
       "publishedAt": "2026-07-20T04:07:39Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12621,
-      "likeCount": 272,
-      "commentCount": 40
-    },
-    {
-      "videoId": "dB_oYUXrbuI",
-      "title": "Full Mùa 1 | Linh Sủng Của Ta Là Cấp Chúa Tể | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/dB_oYUXrbuI/mqdefault.jpg",
-      "publishedAt": "2026-07-22T04:00:31Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 12369,
-      "likeCount": 291,
-      "commentCount": 18
+      "viewCount": 13142,
+      "likeCount": 279,
+      "commentCount": 44
     }
   ]
 }
