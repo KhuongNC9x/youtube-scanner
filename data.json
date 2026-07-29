@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-29T03:00:51.687Z",
+  "scannedAt": "2026-07-29T12:00:59.795Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,39 +17,19 @@
       "thumbnail": "https://i.ytimg.com/vi/n7L-oo3XBKs/mqdefault.jpg",
       "publishedAt": "2026-07-23T04:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 40491,
-      "likeCount": 788,
-      "commentCount": 37
+      "viewCount": 42750,
+      "likeCount": 811,
+      "commentCount": 38
     },
     {
-      "videoId": "dB_oYUXrbuI",
-      "title": "Full Mùa 1 | Linh Sủng Của Ta Là Cấp Chúa Tể | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/dB_oYUXrbuI/mqdefault.jpg",
-      "publishedAt": "2026-07-22T04:00:31Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 27297,
-      "likeCount": 394,
-      "commentCount": 19
-    },
-    {
-      "videoId": "mpcb1cvcPa8",
-      "title": "Full Mùa 1 | Toàn Dân Sinh Tồn Trên Xa Lộ Tử Thần Tôi Có Thiên Phú Chuyển Phát Vô Hạn | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/mpcb1cvcPa8/mqdefault.jpg",
-      "publishedAt": "2026-07-25T03:45:38Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 17586,
-      "likeCount": 325,
-      "commentCount": 26
-    },
-    {
-      "videoId": "PLcatBWxi4s",
-      "title": "FULL END | Thiên Tài Ngự Thú Thiếu Niên | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/PLcatBWxi4s/mqdefault.jpg",
-      "publishedAt": "2026-07-24T04:00:03Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 17098,
-      "likeCount": 463,
-      "commentCount": 40
+      "videoId": "DiU37lLZ0eQ",
+      "title": "Hệ thống Cự Vật Kinh Thiên │ Tập 1-6 │ NoanNoan Review",
+      "thumbnail": "https://i.ytimg.com/vi/DiU37lLZ0eQ/mqdefault.jpg",
+      "publishedAt": "2026-07-25T10:00:39Z",
+      "channelLabel": "Noan Noan Review",
+      "viewCount": 23928,
+      "likeCount": 346,
+      "commentCount": 11
     },
     {
       "videoId": "IFlLK2yTpoY",
@@ -57,9 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/IFlLK2yTpoY/mqdefault.jpg",
       "publishedAt": "2026-07-24T04:00:24Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 15282,
-      "likeCount": 404,
-      "commentCount": 40
+      "viewCount": 22427,
+      "likeCount": 630,
+      "commentCount": 44
+    },
+    {
+      "videoId": "PLcatBWxi4s",
+      "title": "FULL END | Thiên Tài Ngự Thú Thiếu Niên | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/PLcatBWxi4s/mqdefault.jpg",
+      "publishedAt": "2026-07-24T04:00:03Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 21866,
+      "likeCount": 522,
+      "commentCount": 44
+    },
+    {
+      "videoId": "mpcb1cvcPa8",
+      "title": "Full Mùa 1 | Toàn Dân Sinh Tồn Trên Xa Lộ Tử Thần Tôi Có Thiên Phú Chuyển Phát Vô Hạn | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/mpcb1cvcPa8/mqdefault.jpg",
+      "publishedAt": "2026-07-25T03:45:38Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 18889,
+      "likeCount": 339,
+      "commentCount": 26
     }
   ]
 }
