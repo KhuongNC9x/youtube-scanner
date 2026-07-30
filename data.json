@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-30T03:00:50.822Z",
+  "scannedAt": "2026-07-30T12:01:00.872Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "n7L-oo3XBKs",
-      "title": "Full End | Cả Nhà Tôi Đều Là Xã Hội Đen | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/n7L-oo3XBKs/mqdefault.jpg",
-      "publishedAt": "2026-07-23T04:00:21Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 44354,
-      "likeCount": 820,
-      "commentCount": 39
-    },
-    {
       "videoId": "DiU37lLZ0eQ",
       "title": "Hệ thống Cự Vật Kinh Thiên │ Tập 1-6 │ NoanNoan Review",
       "thumbnail": "https://i.ytimg.com/vi/DiU37lLZ0eQ/mqdefault.jpg",
       "publishedAt": "2026-07-25T10:00:39Z",
       "channelLabel": "Noan Noan Review",
-      "viewCount": 29762,
-      "likeCount": 413,
-      "commentCount": 16
+      "viewCount": 36674,
+      "likeCount": 493,
+      "commentCount": 17
     },
     {
       "videoId": "IFlLK2yTpoY",
@@ -37,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/IFlLK2yTpoY/mqdefault.jpg",
       "publishedAt": "2026-07-24T04:00:24Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 28658,
-      "likeCount": 775,
-      "commentCount": 46
+      "viewCount": 33390,
+      "likeCount": 935,
+      "commentCount": 52
     },
     {
       "videoId": "PLcatBWxi4s",
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/PLcatBWxi4s/mqdefault.jpg",
       "publishedAt": "2026-07-24T04:00:03Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 26294,
-      "likeCount": 569,
-      "commentCount": 49
+      "viewCount": 28671,
+      "likeCount": 0,
+      "commentCount": 0
+    },
+    {
+      "videoId": "i0gJ8he9opA",
+      "title": "Full 1-50 | Toàn Dân Cầu Sinh Trên Biển Tôi Có Hệ Thống Siêu May Mắn 100% | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/i0gJ8he9opA/mqdefault.jpg",
+      "publishedAt": "2026-07-27T04:00:10Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 22362,
+      "likeCount": 431,
+      "commentCount": 33
     },
     {
       "videoId": "mpcb1cvcPa8",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/mpcb1cvcPa8/mqdefault.jpg",
       "publishedAt": "2026-07-25T03:45:38Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 19662,
-      "likeCount": 344,
-      "commentCount": 26
+      "viewCount": 20530,
+      "likeCount": 351,
+      "commentCount": 27
     }
   ]
 }
