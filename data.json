@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-06T12:00:53.086Z",
+  "scannedAt": "2026-08-07T03:00:57.854Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/-HScCxyPUSM/mqdefault.jpg",
       "publishedAt": "2026-07-31T04:00:39Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 53994,
-      "likeCount": 1030,
-      "commentCount": 90
+      "viewCount": 57578,
+      "likeCount": 1067,
+      "commentCount": 95
     },
     {
       "videoId": "Y_V9EUeIFpQ",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/Y_V9EUeIFpQ/mqdefault.jpg",
       "publishedAt": "2026-08-01T04:00:23Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 16217,
-      "likeCount": 332,
+      "viewCount": 16621,
+      "likeCount": 339,
       "commentCount": 30
-    },
-    {
-      "videoId": "zCtxyLvhHEI",
-      "title": "Full 1-100 | Toàn Dân Sinh Tồn Trong Thế Giới Sương Mù Tôi Là Người Mạnh Nhất | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/zCtxyLvhHEI/mqdefault.jpg",
-      "publishedAt": "2026-08-03T04:00:15Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 14577,
-      "likeCount": 370,
-      "commentCount": 26
     },
     {
       "videoId": "UUQqF80n0ps",
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/UUQqF80n0ps/mqdefault.jpg",
       "publishedAt": "2026-08-04T03:48:46Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 14565,
-      "likeCount": 377,
+      "viewCount": 15551,
+      "likeCount": 392,
       "commentCount": 37
+    },
+    {
+      "videoId": "zCtxyLvhHEI",
+      "title": "Full 1-100 | Toàn Dân Sinh Tồn Trong Thế Giới Sương Mù Tôi Là Người Mạnh Nhất | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/zCtxyLvhHEI/mqdefault.jpg",
+      "publishedAt": "2026-08-03T04:00:15Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 15371,
+      "likeCount": 379,
+      "commentCount": 26
     },
     {
       "videoId": "RrVyH5ba_oE",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/RrVyH5ba_oE/mqdefault.jpg",
       "publishedAt": "2026-08-05T04:00:31Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 10524,
-      "likeCount": 286,
-      "commentCount": 21
+      "viewCount": 11949,
+      "likeCount": 310,
+      "commentCount": 22
     }
   ]
 }
