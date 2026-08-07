@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-07T03:00:57.854Z",
+  "scannedAt": "2026-08-07T12:00:53.403Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "-HScCxyPUSM",
-      "title": "(Full Mùa 1) Sinh Tồn Trên Xa Lộ Ngày Tận Thế | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/-HScCxyPUSM/mqdefault.jpg",
-      "publishedAt": "2026-07-31T04:00:39Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 57578,
-      "likeCount": 1067,
-      "commentCount": 95
-    },
-    {
       "videoId": "Y_V9EUeIFpQ",
       "title": "(Full 1-50) Xuống Núi Ta Là Tuyệt Thế Ám Vương | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/Y_V9EUeIFpQ/mqdefault.jpg",
       "publishedAt": "2026-08-01T04:00:23Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 16621,
-      "likeCount": 339,
+      "viewCount": 17202,
+      "likeCount": 341,
       "commentCount": 30
     },
     {
@@ -37,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/UUQqF80n0ps/mqdefault.jpg",
       "publishedAt": "2026-08-04T03:48:46Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 15551,
-      "likeCount": 392,
+      "viewCount": 17134,
+      "likeCount": 407,
       "commentCount": 37
     },
     {
@@ -47,8 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/zCtxyLvhHEI/mqdefault.jpg",
       "publishedAt": "2026-08-03T04:00:15Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 15371,
-      "likeCount": 379,
+      "viewCount": 15984,
+      "likeCount": 391,
       "commentCount": 26
     },
     {
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/RrVyH5ba_oE/mqdefault.jpg",
       "publishedAt": "2026-08-05T04:00:31Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 11949,
-      "likeCount": 310,
-      "commentCount": 22
+      "viewCount": 13176,
+      "likeCount": 327,
+      "commentCount": 25
+    },
+    {
+      "videoId": "RmWal0Y4kEs",
+      "title": "(Full 1-60) Từ Kẻ Ngốc Ta Trở Thành Tuyệt Thế Thiên Sư | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/RmWal0Y4kEs/mqdefault.jpg",
+      "publishedAt": "2026-08-06T04:00:15Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 11370,
+      "likeCount": 279,
+      "commentCount": 26
     }
   ]
 }
