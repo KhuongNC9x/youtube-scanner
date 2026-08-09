@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-08T12:00:48.989Z",
+  "scannedAt": "2026-08-09T03:00:49.632Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,39 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UUQqF80n0ps/mqdefault.jpg",
       "publishedAt": "2026-08-04T03:48:46Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 19820,
-      "likeCount": 452,
-      "commentCount": 39
-    },
-    {
-      "videoId": "zCtxyLvhHEI",
-      "title": "Full 1-100 | Toàn Dân Sinh Tồn Trong Thế Giới Sương Mù Tôi Là Người Mạnh Nhất | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/zCtxyLvhHEI/mqdefault.jpg",
-      "publishedAt": "2026-08-03T04:00:15Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 17020,
-      "likeCount": 401,
-      "commentCount": 26
-    },
-    {
-      "videoId": "RrVyH5ba_oE",
-      "title": "Full 1-35 | Trời Sinh Ta Đã Là Phản Dịện | THIẾT REVIEW",
-      "thumbnail": "https://i.ytimg.com/vi/RrVyH5ba_oE/mqdefault.jpg",
-      "publishedAt": "2026-08-05T04:00:31Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 14908,
-      "likeCount": 336,
-      "commentCount": 26
-    },
-    {
-      "videoId": "RmWal0Y4kEs",
-      "title": "(Full 1-60) Từ Kẻ Ngốc Ta Trở Thành Tuyệt Thế Thiên Sư | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/RmWal0Y4kEs/mqdefault.jpg",
-      "publishedAt": "2026-08-06T04:00:15Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 13951,
-      "likeCount": 305,
-      "commentCount": 29
+      "viewCount": 21226,
+      "likeCount": 472,
+      "commentCount": 42
     },
     {
       "videoId": "ZaptYLpcgo0",
@@ -57,9 +27,39 @@
       "thumbnail": "https://i.ytimg.com/vi/ZaptYLpcgo0/mqdefault.jpg",
       "publishedAt": "2026-08-05T04:00:21Z",
       "channelLabel": "Bao Bao VietSub",
-      "viewCount": 9592,
-      "likeCount": 338,
-      "commentCount": 30
+      "viewCount": 18997,
+      "likeCount": 452,
+      "commentCount": 32
+    },
+    {
+      "videoId": "zCtxyLvhHEI",
+      "title": "Full 1-100 | Toàn Dân Sinh Tồn Trong Thế Giới Sương Mù Tôi Là Người Mạnh Nhất | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/zCtxyLvhHEI/mqdefault.jpg",
+      "publishedAt": "2026-08-03T04:00:15Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 17446,
+      "likeCount": 409,
+      "commentCount": 27
+    },
+    {
+      "videoId": "RrVyH5ba_oE",
+      "title": "Full 1-35 | Trời Sinh Ta Đã Là Phản Dịện | THIẾT REVIEW",
+      "thumbnail": "https://i.ytimg.com/vi/RrVyH5ba_oE/mqdefault.jpg",
+      "publishedAt": "2026-08-05T04:00:31Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 16198,
+      "likeCount": 348,
+      "commentCount": 29
+    },
+    {
+      "videoId": "RmWal0Y4kEs",
+      "title": "(Full 1-60) Từ Kẻ Ngốc Ta Trở Thành Tuyệt Thế Thiên Sư | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/RmWal0Y4kEs/mqdefault.jpg",
+      "publishedAt": "2026-08-06T04:00:15Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 14646,
+      "likeCount": 313,
+      "commentCount": 29
     }
   ]
 }
