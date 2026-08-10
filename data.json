@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-09T12:00:48.832Z",
+  "scannedAt": "2026-08-10T03:00:49.900Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/ZaptYLpcgo0/mqdefault.jpg",
       "publishedAt": "2026-08-05T04:00:21Z",
       "channelLabel": "Bao Bao VietSub",
-      "viewCount": 23834,
-      "likeCount": 533,
-      "commentCount": 38
+      "viewCount": 29074,
+      "likeCount": 588,
+      "commentCount": 49
     },
     {
       "videoId": "UUQqF80n0ps",
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/UUQqF80n0ps/mqdefault.jpg",
       "publishedAt": "2026-08-04T03:48:46Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 23832,
-      "likeCount": 494,
+      "viewCount": 25679,
+      "likeCount": 516,
       "commentCount": 43
     },
     {
@@ -37,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/RrVyH5ba_oE/mqdefault.jpg",
       "publishedAt": "2026-08-05T04:00:31Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 18724,
-      "likeCount": 382,
-      "commentCount": 29
-    },
-    {
-      "videoId": "zCtxyLvhHEI",
-      "title": "Full 1-100 | Toàn Dân Sinh Tồn Trong Thế Giới Sương Mù Tôi Là Người Mạnh Nhất | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/zCtxyLvhHEI/mqdefault.jpg",
-      "publishedAt": "2026-08-03T04:00:15Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 17826,
-      "likeCount": 415,
-      "commentCount": 27
+      "viewCount": 20890,
+      "likeCount": 408,
+      "commentCount": 30
     },
     {
       "videoId": "RmWal0Y4kEs",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/RmWal0Y4kEs/mqdefault.jpg",
       "publishedAt": "2026-08-06T04:00:15Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 17171,
-      "likeCount": 343,
+      "viewCount": 19087,
+      "likeCount": 373,
       "commentCount": 30
+    },
+    {
+      "videoId": "zCtxyLvhHEI",
+      "title": "Full 1-100 | Toàn Dân Sinh Tồn Trong Thế Giới Sương Mù Tôi Là Người Mạnh Nhất | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/zCtxyLvhHEI/mqdefault.jpg",
+      "publishedAt": "2026-08-03T04:00:15Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 18296,
+      "likeCount": 418,
+      "commentCount": 28
     }
   ]
 }
