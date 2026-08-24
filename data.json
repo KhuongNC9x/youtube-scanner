@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-23T12:00:53.985Z",
+  "scannedAt": "2026-08-24T03:00:56.418Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/5Fg6kmfR1lg/mqdefault.jpg",
       "publishedAt": "2026-08-17T03:56:28Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 36209,
-      "likeCount": 827,
-      "commentCount": 30
+      "viewCount": 36844,
+      "likeCount": 836,
+      "commentCount": 33
     },
     {
       "videoId": "iXaT5X7jJp0",
@@ -27,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/iXaT5X7jJp0/mqdefault.jpg",
       "publishedAt": "2026-08-18T04:00:00Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 27509,
-      "likeCount": 606,
-      "commentCount": 35
+      "viewCount": 28002,
+      "likeCount": 615,
+      "commentCount": 37
     },
     {
       "videoId": "-qswO8v4JMg",
@@ -37,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/-qswO8v4JMg/mqdefault.jpg",
       "publishedAt": "2026-08-19T04:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 22886,
-      "likeCount": 437,
-      "commentCount": 28
-    },
-    {
-      "videoId": "uVab8n9t4T8",
-      "title": "Full Version | Hệ Thống Cuộc Đời Sung Sướng | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/uVab8n9t4T8/mqdefault.jpg",
-      "publishedAt": "2026-08-21T04:00:32Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 16294,
-      "likeCount": 349,
-      "commentCount": 25
+      "viewCount": 24989,
+      "likeCount": 459,
+      "commentCount": 31
     },
     {
       "videoId": "g5wylUC2Eok",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/g5wylUC2Eok/mqdefault.jpg",
       "publishedAt": "2026-08-21T14:00:40Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 15146,
-      "likeCount": 513,
-      "commentCount": 29
+      "viewCount": 17916,
+      "likeCount": 571,
+      "commentCount": 48
+    },
+    {
+      "videoId": "uVab8n9t4T8",
+      "title": "Full Version | Hệ Thống Cuộc Đời Sung Sướng | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/uVab8n9t4T8/mqdefault.jpg",
+      "publishedAt": "2026-08-21T04:00:32Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 17533,
+      "likeCount": 374,
+      "commentCount": 28
     }
   ]
 }
