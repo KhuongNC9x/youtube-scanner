@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-24T03:00:56.418Z",
+  "scannedAt": "2026-08-24T12:00:52.362Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "5Fg6kmfR1lg",
-      "title": "(Full 1-80) Bị Bạn Gái Đá Tôi Chinh Phục Nữ Hiệu Trưởng Xinh Đẹp | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/5Fg6kmfR1lg/mqdefault.jpg",
-      "publishedAt": "2026-08-17T03:56:28Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 36844,
-      "likeCount": 836,
-      "commentCount": 33
-    },
-    {
       "videoId": "iXaT5X7jJp0",
       "title": "(Full 1-30) Ta Thức Tỉnh Dị Năng Cấp SSS Vô Địch | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/iXaT5X7jJp0/mqdefault.jpg",
       "publishedAt": "2026-08-18T04:00:00Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 28002,
-      "likeCount": 615,
+      "viewCount": 28601,
+      "likeCount": 617,
       "commentCount": 37
     },
     {
@@ -37,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/-qswO8v4JMg/mqdefault.jpg",
       "publishedAt": "2026-08-19T04:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 24989,
-      "likeCount": 459,
-      "commentCount": 31
+      "viewCount": 26935,
+      "likeCount": 480,
+      "commentCount": 32
     },
     {
       "videoId": "g5wylUC2Eok",
@@ -47,8 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/g5wylUC2Eok/mqdefault.jpg",
       "publishedAt": "2026-08-21T14:00:40Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 17916,
-      "likeCount": 571,
+      "viewCount": 20661,
+      "likeCount": 606,
       "commentCount": 48
     },
     {
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/uVab8n9t4T8/mqdefault.jpg",
       "publishedAt": "2026-08-21T04:00:32Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 17533,
-      "likeCount": 374,
+      "viewCount": 18919,
+      "likeCount": 382,
       "commentCount": 28
+    },
+    {
+      "videoId": "8hrjyIdwA_Q",
+      "title": "(Full End) Tận Thế Ta Là Thợ Săn Quái Vật Tối Thượng | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/8hrjyIdwA_Q/mqdefault.jpg",
+      "publishedAt": "2026-08-22T04:00:38Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 15358,
+      "likeCount": 331,
+      "commentCount": 25
     }
   ]
 }
