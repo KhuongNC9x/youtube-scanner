@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-31T12:00:54.150Z",
+  "scannedAt": "2026-09-01T03:01:02.197Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,19 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/BB5hjClrkoA/mqdefault.jpg",
       "publishedAt": "2026-08-27T04:00:32Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 26510,
-      "likeCount": 362,
-      "commentCount": 31
-    },
-    {
-      "videoId": "Ejl5Yr-TLdo",
-      "title": "(Full 1-20) Hệ Thống Cưng Chiều Nhân Viên Thành Tỷ Phú | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/Ejl5Yr-TLdo/mqdefault.jpg",
-      "publishedAt": "2026-08-26T04:00:36Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 21009,
-      "likeCount": 462,
-      "commentCount": 33
+      "viewCount": 27329,
+      "likeCount": 370,
+      "commentCount": 34
     },
     {
       "videoId": "_kiIbpOGJpM",
@@ -37,19 +27,29 @@
       "thumbnail": "https://i.ytimg.com/vi/_kiIbpOGJpM/mqdefault.jpg",
       "publishedAt": "2026-08-28T04:00:25Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 20834,
-      "likeCount": 289,
-      "commentCount": 20
+      "viewCount": 22227,
+      "likeCount": 298,
+      "commentCount": 21
     },
     {
-      "videoId": "OXeTyG3baBs",
-      "title": "(Full 1-80) Tuyệt Thế Đạo Thần | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/OXeTyG3baBs/mqdefault.jpg",
-      "publishedAt": "2026-08-29T03:53:51Z",
+      "videoId": "Ejl5Yr-TLdo",
+      "title": "(Full 1-20) Hệ Thống Cưng Chiều Nhân Viên Thành Tỷ Phú | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/Ejl5Yr-TLdo/mqdefault.jpg",
+      "publishedAt": "2026-08-26T04:00:36Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 10862,
-      "likeCount": 146,
-      "commentCount": 11
+      "viewCount": 21477,
+      "likeCount": 464,
+      "commentCount": 34
+    },
+    {
+      "videoId": "WILMPR1oMEA",
+      "title": "FULL ( Tập 1-100 ) | Bậc Thầy Quân Sư Thời Loạn | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/WILMPR1oMEA/mqdefault.jpg",
+      "publishedAt": "2026-08-28T04:00:36Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 17959,
+      "likeCount": 455,
+      "commentCount": 69
     },
     {
       "videoId": "VnJZiw0mxR8",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/VnJZiw0mxR8/mqdefault.jpg",
       "publishedAt": "2026-08-30T04:07:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 10224,
-      "likeCount": 235,
-      "commentCount": 23
+      "viewCount": 12499,
+      "likeCount": 251,
+      "commentCount": 24
     }
   ]
 }
