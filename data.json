@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-05T03:00:58.372Z",
+  "scannedAt": "2026-09-05T12:01:02.015Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/grt4p4HqpMg/mqdefault.jpg",
       "publishedAt": "2026-09-01T04:00:23Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 51505,
-      "likeCount": 1122,
-      "commentCount": 85
+      "viewCount": 61511,
+      "likeCount": 1365,
+      "commentCount": 99
     },
     {
       "videoId": "ZYk9YR3f6cg",
@@ -27,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/ZYk9YR3f6cg/mqdefault.jpg",
       "publishedAt": "2026-08-31T04:11:35Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 40477,
-      "likeCount": 625,
-      "commentCount": 45
+      "viewCount": 43653,
+      "likeCount": 678,
+      "commentCount": 46
     },
     {
       "videoId": "OtgbsP0hKoY",
@@ -37,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/OtgbsP0hKoY/mqdefault.jpg",
       "publishedAt": "2026-08-30T04:00:22Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 26880,
-      "likeCount": 592,
-      "commentCount": 18
-    },
-    {
-      "videoId": "j91V3sB3vXo",
-      "title": "FULL ( Tập 1-90 ) | Xuyên Không Tôi Trở Thành Thị Trưởng Nghìn Tỷ | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/j91V3sB3vXo/mqdefault.jpg",
-      "publishedAt": "2026-08-29T10:00:28Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 26030,
-      "likeCount": 357,
-      "commentCount": 34
+      "viewCount": 33329,
+      "likeCount": 699,
+      "commentCount": 22
     },
     {
       "videoId": "VnJZiw0mxR8",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/VnJZiw0mxR8/mqdefault.jpg",
       "publishedAt": "2026-08-30T04:07:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 23875,
-      "likeCount": 377,
+      "viewCount": 24774,
+      "likeCount": 389,
       "commentCount": 34
+    },
+    {
+      "videoId": "cofUyLOW3o0",
+      "title": "Full Mùa 4 End | Toàn Cầu Sát Cơ Ta Quét Sạch Quỷ Dị Trong Ký Túc Xá | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/cofUyLOW3o0/mqdefault.jpg",
+      "publishedAt": "2026-08-30T10:40:56Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 22081,
+      "likeCount": 330,
+      "commentCount": 41
     }
   ]
 }
