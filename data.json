@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-12T12:01:06.355Z",
+  "scannedAt": "2026-09-13T03:01:04.238Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,24 @@
   ],
   "top5": [
     {
-      "videoId": "_jFMCc0wPRY",
-      "title": "(Full 1-30) Diêm Vương Mặc Cảnh Phục | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/_jFMCc0wPRY/mqdefault.jpg",
-      "publishedAt": "2026-09-06T04:00:04Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 27962,
-      "likeCount": 441,
-      "commentCount": 28
-    },
-    {
       "videoId": "5u-x2R8dYt0",
       "title": "(Full End) Tận Thế Tôi Vác Hoa Khôi Về Xây Căn Cứ Cấp SSS Mạnh Nhất | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/5u-x2R8dYt0/mqdefault.jpg",
       "publishedAt": "2026-09-09T04:00:36Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 22667,
-      "likeCount": 315,
-      "commentCount": 17
+      "viewCount": 29750,
+      "likeCount": 364,
+      "commentCount": 19
+    },
+    {
+      "videoId": "_jFMCc0wPRY",
+      "title": "(Full 1-30) Diêm Vương Mặc Cảnh Phục | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/_jFMCc0wPRY/mqdefault.jpg",
+      "publishedAt": "2026-09-06T04:00:04Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 29687,
+      "likeCount": 462,
+      "commentCount": 28
     },
     {
       "videoId": "1q50EFvANlo",
@@ -37,8 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/1q50EFvANlo/mqdefault.jpg",
       "publishedAt": "2026-09-07T04:00:28Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13660,
-      "likeCount": 160,
+      "viewCount": 14312,
+      "likeCount": 168,
       "commentCount": 13
     },
     {
@@ -47,19 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
       "publishedAt": "2026-09-11T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 10033,
-      "likeCount": 168,
-      "commentCount": 7
+      "viewCount": 12225,
+      "likeCount": 183,
+      "commentCount": 8
     },
     {
-      "videoId": "DYjwm0E7IYs",
-      "title": "Full Mùa 1 | Trời Sinh Ta Đã Là Phản Dịện | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/DYjwm0E7IYs/mqdefault.jpg",
-      "publishedAt": "2026-09-10T04:00:15Z",
+      "videoId": "ppel_PGuegc",
+      "title": "(Full Mùa 5) Toàn Cầu Sát Cơ Ta Quét Sạch Quỷ Dị Trong Ký Túc Xá | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/ppel_PGuegc/mqdefault.jpg",
+      "publishedAt": "2026-09-11T12:22:42Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 9113,
-      "likeCount": 133,
-      "commentCount": 19
+      "viewCount": 9865,
+      "likeCount": 153,
+      "commentCount": 24
     }
   ]
 }
