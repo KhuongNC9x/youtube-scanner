@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-14T03:01:09.577Z",
+  "scannedAt": "2026-09-14T12:01:09.899Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/5u-x2R8dYt0/mqdefault.jpg",
       "publishedAt": "2026-09-09T04:00:36Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 40559,
-      "likeCount": 446,
-      "commentCount": 20
+      "viewCount": 49006,
+      "likeCount": 543,
+      "commentCount": 21
     },
     {
       "videoId": "LgMlrHh-VJY",
@@ -27,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/LgMlrHh-VJY/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 18935,
-      "likeCount": 365,
-      "commentCount": 23
+      "viewCount": 20582,
+      "likeCount": 400,
+      "commentCount": 24
     },
     {
       "videoId": "AW-J3jPyh0U",
@@ -37,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
       "publishedAt": "2026-09-11T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 16460,
-      "likeCount": 233,
+      "viewCount": 17399,
+      "likeCount": 240,
       "commentCount": 8
-    },
-    {
-      "videoId": "1q50EFvANlo",
-      "title": "(Full 1-20) Sinh Tồn Trong Lớp Học Quái Đàm Ta Thức Tỉnh Thiên Phú Tàn Hình Cấp SSS | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/1q50EFvANlo/mqdefault.jpg",
-      "publishedAt": "2026-09-07T04:00:28Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 15297,
-      "likeCount": 172,
-      "commentCount": 13
     },
     {
       "videoId": "ppel_PGuegc",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/ppel_PGuegc/mqdefault.jpg",
       "publishedAt": "2026-09-11T12:22:42Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13001,
-      "likeCount": 176,
+      "viewCount": 13548,
+      "likeCount": 178,
       "commentCount": 26
+    },
+    {
+      "videoId": "mvK5XdPegc0",
+      "title": "FULL ( Tập 1-50 ) | Từ Phế Vật Đến Đỉnh Cao Quyền Lực | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/mvK5XdPegc0/mqdefault.jpg",
+      "publishedAt": "2026-09-08T10:00:20Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 13310,
+      "likeCount": 183,
+      "commentCount": 7
     }
   ]
 }
