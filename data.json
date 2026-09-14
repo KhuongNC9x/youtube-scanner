@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-13T12:01:05.818Z",
+  "scannedAt": "2026-09-14T03:01:09.577Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/5u-x2R8dYt0/mqdefault.jpg",
       "publishedAt": "2026-09-09T04:00:36Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 33902,
-      "likeCount": 386,
+      "viewCount": 40559,
+      "likeCount": 446,
       "commentCount": 20
     },
     {
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/LgMlrHh-VJY/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 15501,
-      "likeCount": 333,
+      "viewCount": 18935,
+      "likeCount": 365,
       "commentCount": 23
-    },
-    {
-      "videoId": "1q50EFvANlo",
-      "title": "(Full 1-20) Sinh Tồn Trong Lớp Học Quái Đàm Ta Thức Tỉnh Thiên Phú Tàn Hình Cấp SSS | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/1q50EFvANlo/mqdefault.jpg",
-      "publishedAt": "2026-09-07T04:00:28Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 14855,
-      "likeCount": 171,
-      "commentCount": 13
     },
     {
       "videoId": "AW-J3jPyh0U",
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
       "publishedAt": "2026-09-11T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 14467,
-      "likeCount": 217,
+      "viewCount": 16460,
+      "likeCount": 233,
       "commentCount": 8
+    },
+    {
+      "videoId": "1q50EFvANlo",
+      "title": "(Full 1-20) Sinh Tồn Trong Lớp Học Quái Đàm Ta Thức Tỉnh Thiên Phú Tàn Hình Cấp SSS | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/1q50EFvANlo/mqdefault.jpg",
+      "publishedAt": "2026-09-07T04:00:28Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 15297,
+      "likeCount": 172,
+      "commentCount": 13
     },
     {
       "videoId": "ppel_PGuegc",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/ppel_PGuegc/mqdefault.jpg",
       "publishedAt": "2026-09-11T12:22:42Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 11711,
-      "likeCount": 165,
-      "commentCount": 25
+      "viewCount": 13001,
+      "likeCount": 176,
+      "commentCount": 26
     }
   ]
 }
