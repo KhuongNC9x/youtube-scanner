@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-14T12:01:09.899Z",
+  "scannedAt": "2026-09-15T03:01:05.414Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/5u-x2R8dYt0/mqdefault.jpg",
       "publishedAt": "2026-09-09T04:00:36Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 49006,
-      "likeCount": 543,
+      "viewCount": 58657,
+      "likeCount": 588,
       "commentCount": 21
     },
     {
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/LgMlrHh-VJY/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 20582,
-      "likeCount": 400,
+      "viewCount": 22612,
+      "likeCount": 419,
       "commentCount": 24
     },
     {
@@ -37,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
       "publishedAt": "2026-09-11T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 17399,
-      "likeCount": 240,
+      "viewCount": 18351,
+      "likeCount": 244,
       "commentCount": 8
-    },
-    {
-      "videoId": "ppel_PGuegc",
-      "title": "(Full Mùa 5) Toàn Cầu Sát Cơ Ta Quét Sạch Quỷ Dị Trong Ký Túc Xá | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/ppel_PGuegc/mqdefault.jpg",
-      "publishedAt": "2026-09-11T12:22:42Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 13548,
-      "likeCount": 178,
-      "commentCount": 26
     },
     {
       "videoId": "mvK5XdPegc0",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/mvK5XdPegc0/mqdefault.jpg",
       "publishedAt": "2026-09-08T10:00:20Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 13310,
-      "likeCount": 183,
-      "commentCount": 7
+      "viewCount": 15183,
+      "likeCount": 200,
+      "commentCount": 9
+    },
+    {
+      "videoId": "ppel_PGuegc",
+      "title": "(Full Mùa 5) Toàn Cầu Sát Cơ Ta Quét Sạch Quỷ Dị Trong Ký Túc Xá | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/ppel_PGuegc/mqdefault.jpg",
+      "publishedAt": "2026-09-11T12:22:42Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 14378,
+      "likeCount": 186,
+      "commentCount": 27
     }
   ]
 }
