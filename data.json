@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-15T03:01:05.414Z",
+  "scannedAt": "2026-09-15T12:01:04.956Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/5u-x2R8dYt0/mqdefault.jpg",
       "publishedAt": "2026-09-09T04:00:36Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 58657,
-      "likeCount": 588,
+      "viewCount": 64836,
+      "likeCount": 637,
       "commentCount": 21
     },
     {
@@ -27,9 +27,19 @@
       "thumbnail": "https://i.ytimg.com/vi/LgMlrHh-VJY/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 22612,
-      "likeCount": 419,
+      "viewCount": 23772,
+      "likeCount": 426,
       "commentCount": 24
+    },
+    {
+      "videoId": "mkiFSmeMVUs",
+      "title": "FULL END | Từ Kẻ Ăn Bám Thành Siêu Đầu Bếp | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/mkiFSmeMVUs/mqdefault.jpg",
+      "publishedAt": "2026-09-10T04:00:15Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 19154,
+      "likeCount": 344,
+      "commentCount": 13
     },
     {
       "videoId": "AW-J3jPyh0U",
@@ -37,19 +47,9 @@
       "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
       "publishedAt": "2026-09-11T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 18351,
-      "likeCount": 244,
+      "viewCount": 19067,
+      "likeCount": 253,
       "commentCount": 8
-    },
-    {
-      "videoId": "mvK5XdPegc0",
-      "title": "FULL ( Tập 1-50 ) | Từ Phế Vật Đến Đỉnh Cao Quyền Lực | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/mvK5XdPegc0/mqdefault.jpg",
-      "publishedAt": "2026-09-08T10:00:20Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 15183,
-      "likeCount": 200,
-      "commentCount": 9
     },
     {
       "videoId": "ppel_PGuegc",
@@ -57,8 +57,8 @@
       "thumbnail": "https://i.ytimg.com/vi/ppel_PGuegc/mqdefault.jpg",
       "publishedAt": "2026-09-11T12:22:42Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 14378,
-      "likeCount": 186,
+      "viewCount": 14915,
+      "likeCount": 192,
       "commentCount": 27
     }
   ]
