@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-16T03:01:00.940Z",
+  "scannedAt": "2026-09-16T12:01:05.968Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "5u-x2R8dYt0",
-      "title": "(Full End) Tận Thế Tôi Vác Hoa Khôi Về Xây Căn Cứ Cấp SSS Mạnh Nhất | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/5u-x2R8dYt0/mqdefault.jpg",
-      "publishedAt": "2026-09-09T04:00:36Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 74462,
-      "likeCount": 729,
-      "commentCount": 22
-    },
-    {
       "videoId": "mkiFSmeMVUs",
       "title": "FULL END | Từ Kẻ Ăn Bám Thành Siêu Đầu Bếp | Thi Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/mkiFSmeMVUs/mqdefault.jpg",
       "publishedAt": "2026-09-10T04:00:15Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 32443,
-      "likeCount": 430,
-      "commentCount": 21
+      "viewCount": 36505,
+      "likeCount": 512,
+      "commentCount": 25
     },
     {
       "videoId": "LgMlrHh-VJY",
@@ -37,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/LgMlrHh-VJY/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 26553,
-      "likeCount": 456,
+      "viewCount": 29134,
+      "likeCount": 489,
       "commentCount": 24
-    },
-    {
-      "videoId": "AW-J3jPyh0U",
-      "title": "Full (Tập 1-80) | Tên Điên Xã Hội Đen Ra Tù Giang Hồ Dậy Sóng | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
-      "publishedAt": "2026-09-11T04:00:22Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 19859,
-      "likeCount": 256,
-      "commentCount": 8
     },
     {
       "videoId": "KPi-GDIzorE",
@@ -57,9 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/KPi-GDIzorE/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:27Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 19511,
-      "likeCount": 273,
-      "commentCount": 28
+      "viewCount": 25744,
+      "likeCount": 318,
+      "commentCount": 31
+    },
+    {
+      "videoId": "AW-J3jPyh0U",
+      "title": "Full (Tập 1-80) | Tên Điên Xã Hội Đen Ra Tù Giang Hồ Dậy Sóng | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
+      "publishedAt": "2026-09-11T04:00:22Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 20378,
+      "likeCount": 261,
+      "commentCount": 8
+    },
+    {
+      "videoId": "HOcEyech5KQ",
+      "title": "(Full 1-30) Cán Bộ Trọng Sinh Xưng Bá Học Đường | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/HOcEyech5KQ/mqdefault.jpg",
+      "publishedAt": "2026-09-14T04:00:31Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 19526,
+      "likeCount": 399,
+      "commentCount": 32
     }
   ]
 }
