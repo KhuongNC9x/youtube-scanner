@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-15T12:01:04.956Z",
+  "scannedAt": "2026-09-16T03:01:00.940Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,18 @@
       "thumbnail": "https://i.ytimg.com/vi/5u-x2R8dYt0/mqdefault.jpg",
       "publishedAt": "2026-09-09T04:00:36Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 64836,
-      "likeCount": 637,
+      "viewCount": 74462,
+      "likeCount": 729,
+      "commentCount": 22
+    },
+    {
+      "videoId": "mkiFSmeMVUs",
+      "title": "FULL END | Từ Kẻ Ăn Bám Thành Siêu Đầu Bếp | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/mkiFSmeMVUs/mqdefault.jpg",
+      "publishedAt": "2026-09-10T04:00:15Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 32443,
+      "likeCount": 430,
       "commentCount": 21
     },
     {
@@ -27,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/LgMlrHh-VJY/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 23772,
-      "likeCount": 426,
+      "viewCount": 26553,
+      "likeCount": 456,
       "commentCount": 24
-    },
-    {
-      "videoId": "mkiFSmeMVUs",
-      "title": "FULL END | Từ Kẻ Ăn Bám Thành Siêu Đầu Bếp | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/mkiFSmeMVUs/mqdefault.jpg",
-      "publishedAt": "2026-09-10T04:00:15Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 19154,
-      "likeCount": 344,
-      "commentCount": 13
     },
     {
       "videoId": "AW-J3jPyh0U",
@@ -47,19 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
       "publishedAt": "2026-09-11T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 19067,
-      "likeCount": 253,
+      "viewCount": 19859,
+      "likeCount": 256,
       "commentCount": 8
     },
     {
-      "videoId": "ppel_PGuegc",
-      "title": "(Full Mùa 5) Toàn Cầu Sát Cơ Ta Quét Sạch Quỷ Dị Trong Ký Túc Xá | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/ppel_PGuegc/mqdefault.jpg",
-      "publishedAt": "2026-09-11T12:22:42Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 14915,
-      "likeCount": 192,
-      "commentCount": 27
+      "videoId": "KPi-GDIzorE",
+      "title": "FULL END | Từ Kẻ Vô Danh Trở Thành Chiến Thần Ngày Tận Thế | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/KPi-GDIzorE/mqdefault.jpg",
+      "publishedAt": "2026-09-12T10:00:27Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 19511,
+      "likeCount": 273,
+      "commentCount": 28
     }
   ]
 }
