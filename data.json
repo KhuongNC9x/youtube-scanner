@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-16T12:01:05.968Z",
+  "scannedAt": "2026-09-17T03:01:02.250Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/mkiFSmeMVUs/mqdefault.jpg",
       "publishedAt": "2026-09-10T04:00:15Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 36505,
-      "likeCount": 512,
-      "commentCount": 25
+      "viewCount": 47417,
+      "likeCount": 604,
+      "commentCount": 29
     },
     {
       "videoId": "LgMlrHh-VJY",
@@ -27,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/LgMlrHh-VJY/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 29134,
-      "likeCount": 489,
-      "commentCount": 24
+      "viewCount": 33274,
+      "likeCount": 509,
+      "commentCount": 25
     },
     {
       "videoId": "KPi-GDIzorE",
@@ -37,19 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/KPi-GDIzorE/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:27Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 25744,
-      "likeCount": 318,
+      "viewCount": 31756,
+      "likeCount": 348,
       "commentCount": 31
     },
     {
-      "videoId": "AW-J3jPyh0U",
-      "title": "Full (Tập 1-80) | Tên Điên Xã Hội Đen Ra Tù Giang Hồ Dậy Sóng | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
-      "publishedAt": "2026-09-11T04:00:22Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 20378,
-      "likeCount": 261,
-      "commentCount": 8
+      "videoId": "2x2f2AQy0gY",
+      "title": "FULL END | 18 Tuổi Thành Chuyên Gia Gỡ Bơm | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/2x2f2AQy0gY/mqdefault.jpg",
+      "publishedAt": "2026-09-11T10:00:04Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 28198,
+      "likeCount": 464,
+      "commentCount": 11
     },
     {
       "videoId": "HOcEyech5KQ",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/HOcEyech5KQ/mqdefault.jpg",
       "publishedAt": "2026-09-14T04:00:31Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 19526,
-      "likeCount": 399,
-      "commentCount": 32
+      "viewCount": 22438,
+      "likeCount": 422,
+      "commentCount": 37
     }
   ]
 }
