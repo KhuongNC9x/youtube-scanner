@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-17T03:01:02.250Z",
+  "scannedAt": "2026-09-17T12:01:04.261Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,14 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "mkiFSmeMVUs",
-      "title": "FULL END | Từ Kẻ Ăn Bám Thành Siêu Đầu Bếp | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/mkiFSmeMVUs/mqdefault.jpg",
-      "publishedAt": "2026-09-10T04:00:15Z",
+      "videoId": "KPi-GDIzorE",
+      "title": "FULL END | Từ Kẻ Vô Danh Trở Thành Chiến Thần Ngày Tận Thế | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/KPi-GDIzorE/mqdefault.jpg",
+      "publishedAt": "2026-09-12T10:00:27Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 47417,
-      "likeCount": 604,
-      "commentCount": 29
+      "viewCount": 38110,
+      "likeCount": 379,
+      "commentCount": 36
     },
     {
       "videoId": "LgMlrHh-VJY",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/LgMlrHh-VJY/mqdefault.jpg",
       "publishedAt": "2026-09-12T10:00:18Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 33274,
-      "likeCount": 509,
-      "commentCount": 25
-    },
-    {
-      "videoId": "KPi-GDIzorE",
-      "title": "FULL END | Từ Kẻ Vô Danh Trở Thành Chiến Thần Ngày Tận Thế | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/KPi-GDIzorE/mqdefault.jpg",
-      "publishedAt": "2026-09-12T10:00:27Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 31756,
-      "likeCount": 348,
-      "commentCount": 31
+      "viewCount": 37344,
+      "likeCount": 549,
+      "commentCount": 26
     },
     {
       "videoId": "2x2f2AQy0gY",
@@ -47,9 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/2x2f2AQy0gY/mqdefault.jpg",
       "publishedAt": "2026-09-11T10:00:04Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 28198,
-      "likeCount": 464,
-      "commentCount": 11
+      "viewCount": 32012,
+      "likeCount": 490,
+      "commentCount": 12
     },
     {
       "videoId": "HOcEyech5KQ",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/HOcEyech5KQ/mqdefault.jpg",
       "publishedAt": "2026-09-14T04:00:31Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 22438,
-      "likeCount": 422,
-      "commentCount": 37
+      "viewCount": 23697,
+      "likeCount": 432,
+      "commentCount": 38
+    },
+    {
+      "videoId": "AW-J3jPyh0U",
+      "title": "Full (Tập 1-80) | Tên Điên Xã Hội Đen Ra Tù Giang Hồ Dậy Sóng | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/AW-J3jPyh0U/mqdefault.jpg",
+      "publishedAt": "2026-09-11T04:00:22Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 21452,
+      "likeCount": 156,
+      "commentCount": 8
     }
   ]
 }
