@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-19T03:01:04.281Z",
+  "scannedAt": "2026-09-19T12:00:59.311Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,33 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "LgMlrHh-VJY",
-      "title": "(Full End) Sát Thủ &quot;Bất Đắc Dĩ&quot;: Thăng Cấp Nhờ Vận May | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/LgMlrHh-VJY/mqdefault.jpg",
-      "publishedAt": "2026-09-12T10:00:18Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 51321,
-      "likeCount": 661,
-      "commentCount": 29
-    },
-    {
-      "videoId": "KPi-GDIzorE",
-      "title": "FULL END | Từ Kẻ Vô Danh Trở Thành Chiến Thần Ngày Tận Thế | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/KPi-GDIzorE/mqdefault.jpg",
-      "publishedAt": "2026-09-12T10:00:27Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 49907,
-      "likeCount": 413,
-      "commentCount": 41
-    },
-    {
       "videoId": "HOcEyech5KQ",
       "title": "(Full 1-30) Cán Bộ Trọng Sinh Xưng Bá Học Đường | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/HOcEyech5KQ/mqdefault.jpg",
       "publishedAt": "2026-09-14T04:00:31Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 27076,
-      "likeCount": 474,
+      "viewCount": 27811,
+      "likeCount": 484,
       "commentCount": 48
     },
     {
@@ -47,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/TdcpyRclIvE/mqdefault.jpg",
       "publishedAt": "2026-09-16T04:00:09Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13291,
-      "likeCount": 165,
+      "viewCount": 14840,
+      "likeCount": 171,
       "commentCount": 15
     },
     {
@@ -57,9 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/Ff71ou9ztEw/mqdefault.jpg",
       "publishedAt": "2026-09-13T10:00:27Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12807,
-      "likeCount": 167,
+      "viewCount": 13295,
+      "likeCount": 169,
       "commentCount": 17
+    },
+    {
+      "videoId": "L95Lxr5PP6E",
+      "title": "Truyền Nhân Y Thánh Đỉnh Cấp Thần Y | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/L95Lxr5PP6E/mqdefault.jpg",
+      "publishedAt": "2026-09-17T10:00:03Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 11890,
+      "likeCount": 201,
+      "commentCount": 12
+    },
+    {
+      "videoId": "c9chJNqk9cI",
+      "title": "FULL END | Từ Kẻ Bị Đuổi Khỏi Hào Môn Đến Chân Đế Vương Vô Song | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/c9chJNqk9cI/mqdefault.jpg",
+      "publishedAt": "2026-09-13T10:00:17Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 10100,
+      "likeCount": 156,
+      "commentCount": 6
     }
   ]
 }
