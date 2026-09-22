@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-21T12:01:05.428Z",
+  "scannedAt": "2026-09-22T03:01:04.784Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,19 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/TdcpyRclIvE/mqdefault.jpg",
       "publishedAt": "2026-09-16T04:00:09Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 21391,
-      "likeCount": 227,
+      "viewCount": 23072,
+      "likeCount": 243,
       "commentCount": 18
-    },
-    {
-      "videoId": "L95Lxr5PP6E",
-      "title": "Truyền Nhân Y Thánh Đỉnh Cấp Thần Y | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/L95Lxr5PP6E/mqdefault.jpg",
-      "publishedAt": "2026-09-17T10:00:03Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 15046,
-      "likeCount": 226,
-      "commentCount": 13
     },
     {
       "videoId": "7FP2Rke_Jag",
@@ -37,9 +27,29 @@
       "thumbnail": "https://i.ytimg.com/vi/7FP2Rke_Jag/mqdefault.jpg",
       "publishedAt": "2026-09-15T10:00:18Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 13224,
-      "likeCount": 231,
-      "commentCount": 17
+      "viewCount": 15785,
+      "likeCount": 266,
+      "commentCount": 19
+    },
+    {
+      "videoId": "L95Lxr5PP6E",
+      "title": "Truyền Nhân Y Thánh Đỉnh Cấp Thần Y | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/L95Lxr5PP6E/mqdefault.jpg",
+      "publishedAt": "2026-09-17T10:00:03Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 15744,
+      "likeCount": 237,
+      "commentCount": 13
+    },
+    {
+      "videoId": "BMvL-sYC5vE",
+      "title": "Hệ Thống Giao Dịch Tuổi Thọ | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/BMvL-sYC5vE/mqdefault.jpg",
+      "publishedAt": "2026-09-21T04:00:21Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 13041,
+      "likeCount": 255,
+      "commentCount": 22
     },
     {
       "videoId": "cYELd-lpXeQ",
@@ -47,19 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/cYELd-lpXeQ/mqdefault.jpg",
       "publishedAt": "2026-09-17T04:00:26Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12266,
-      "likeCount": 201,
+      "viewCount": 12707,
+      "likeCount": 207,
       "commentCount": 5
-    },
-    {
-      "videoId": "mn3Cz_vXgMg",
-      "title": "(Full) Tập 1-50 | Ác Mộng: Thế Giới Cấm Kỵ | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/mn3Cz_vXgMg/mqdefault.jpg",
-      "publishedAt": "2026-09-18T04:00:07Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 9774,
-      "likeCount": 141,
-      "commentCount": 11
     }
   ]
 }
