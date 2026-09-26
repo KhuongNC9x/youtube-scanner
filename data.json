@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-26T03:01:06.193Z",
+  "scannedAt": "2026-09-26T12:01:04.650Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "DUTTqoe0wYY",
-      "title": "FULL END | Từ Kẻ Trắng Tay Đến Ông Trùm Công Nghệ Tỷ Đô | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/DUTTqoe0wYY/mqdefault.jpg",
-      "publishedAt": "2026-09-19T04:00:33Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 59687,
-      "likeCount": 785,
-      "commentCount": 32
-    },
-    {
       "videoId": "BMvL-sYC5vE",
       "title": "Hệ Thống Giao Dịch Tuổi Thọ | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/BMvL-sYC5vE/mqdefault.jpg",
       "publishedAt": "2026-09-21T04:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 41489,
-      "likeCount": 640,
-      "commentCount": 43
+      "viewCount": 45052,
+      "likeCount": 690,
+      "commentCount": 46
     },
     {
       "videoId": "fxGX5duJLxI",
@@ -37,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/fxGX5duJLxI/mqdefault.jpg",
       "publishedAt": "2026-09-21T04:00:07Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 17187,
-      "likeCount": 229,
+      "viewCount": 19464,
+      "likeCount": 265,
       "commentCount": 16
     },
     {
@@ -47,18 +37,28 @@
       "thumbnail": "https://i.ytimg.com/vi/UzIExlU2-ek/mqdefault.jpg",
       "publishedAt": "2026-09-22T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 16752,
-      "likeCount": 222,
+      "viewCount": 18019,
+      "likeCount": 230,
       "commentCount": 18
     },
     {
-      "videoId": "m9kOqKxdRFo",
-      "title": "(Full Mùa 6) Toàn Cầu Sát Cơ Ta Quét Sạch Quỷ Dị Trong Ký Túc Xá | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/m9kOqKxdRFo/mqdefault.jpg",
-      "publishedAt": "2026-09-19T10:00:29Z",
+      "videoId": "jB3-mUct9ow",
+      "title": "Tay Trắng Lập Nghiệp Tôi Hùng Bá Giang Hồ | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/jB3-mUct9ow/mqdefault.jpg",
+      "publishedAt": "2026-09-20T04:00:10Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 14345,
-      "likeCount": 117,
+      "viewCount": 14650,
+      "likeCount": 136,
+      "commentCount": 13
+    },
+    {
+      "videoId": "2WSo7L7hbXM",
+      "title": "Hệ Thống Phản Diện Bắt Tôi Diệt Nam Chính | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/2WSo7L7hbXM/mqdefault.jpg",
+      "publishedAt": "2026-09-25T05:45:08Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 12538,
+      "likeCount": 264,
       "commentCount": 17
     }
   ]
