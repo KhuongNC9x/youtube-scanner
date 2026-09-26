@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-25T12:01:06.558Z",
+  "scannedAt": "2026-09-26T03:01:06.193Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/DUTTqoe0wYY/mqdefault.jpg",
       "publishedAt": "2026-09-19T04:00:33Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 56849,
-      "likeCount": 748,
-      "commentCount": 31
+      "viewCount": 59687,
+      "likeCount": 785,
+      "commentCount": 32
     },
     {
       "videoId": "BMvL-sYC5vE",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/BMvL-sYC5vE/mqdefault.jpg",
       "publishedAt": "2026-09-21T04:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 38234,
-      "likeCount": 589,
-      "commentCount": 40
-    },
-    {
-      "videoId": "UzIExlU2-ek",
-      "title": "(Full End) Xuyên Thành Nam Phụ Mỏ Hỗn Hốt Tôi Trọn Dàn Nữ Thần | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/UzIExlU2-ek/mqdefault.jpg",
-      "publishedAt": "2026-09-22T04:00:16Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 15537,
-      "likeCount": 208,
-      "commentCount": 18
+      "viewCount": 41489,
+      "likeCount": 640,
+      "commentCount": 43
     },
     {
       "videoId": "fxGX5duJLxI",
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/fxGX5duJLxI/mqdefault.jpg",
       "publishedAt": "2026-09-21T04:00:07Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 15026,
-      "likeCount": 213,
-      "commentCount": 14
+      "viewCount": 17187,
+      "likeCount": 229,
+      "commentCount": 16
+    },
+    {
+      "videoId": "UzIExlU2-ek",
+      "title": "(Full End) Xuyên Thành Nam Phụ Mỏ Hỗn Hốt Tôi Trọn Dàn Nữ Thần | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/UzIExlU2-ek/mqdefault.jpg",
+      "publishedAt": "2026-09-22T04:00:16Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 16752,
+      "likeCount": 222,
+      "commentCount": 18
     },
     {
       "videoId": "m9kOqKxdRFo",
@@ -57,8 +57,8 @@
       "thumbnail": "https://i.ytimg.com/vi/m9kOqKxdRFo/mqdefault.jpg",
       "publishedAt": "2026-09-19T10:00:29Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13785,
-      "likeCount": 114,
+      "viewCount": 14345,
+      "likeCount": 117,
       "commentCount": 17
     }
   ]
