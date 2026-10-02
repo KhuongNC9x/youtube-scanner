@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-02T03:01:03.737Z",
+  "scannedAt": "2026-10-02T12:01:07.002Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "2WSo7L7hbXM",
-      "title": "Hệ Thống Phản Diện Bắt Tôi Diệt Nam Chính | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/2WSo7L7hbXM/mqdefault.jpg",
-      "publishedAt": "2026-09-25T05:45:08Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 22168,
-      "likeCount": 408,
-      "commentCount": 28
-    },
-    {
       "videoId": "tGDMuZmcMrE",
       "title": "Ta Thức Tỉnh Mệnh Hồn Biến Dị Cấp SSS | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/tGDMuZmcMrE/mqdefault.jpg",
       "publishedAt": "2026-09-26T04:00:09Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 16891,
-      "likeCount": 174,
+      "viewCount": 17155,
+      "likeCount": 183,
       "commentCount": 20
     },
     {
@@ -37,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/3PKwucqloKg/mqdefault.jpg",
       "publishedAt": "2026-09-28T04:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13442,
-      "likeCount": 171,
+      "viewCount": 13994,
+      "likeCount": 178,
       "commentCount": 11
     },
     {
@@ -47,8 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/ad8y1_XTMgA/mqdefault.jpg",
       "publishedAt": "2026-09-27T04:00:23Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12002,
-      "likeCount": 154,
+      "viewCount": 12179,
+      "likeCount": 153,
       "commentCount": 14
     },
     {
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/lNf9_jzcJuI/mqdefault.jpg",
       "publishedAt": "2026-09-29T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 10871,
-      "likeCount": 137,
+      "viewCount": 11451,
+      "likeCount": 142,
       "commentCount": 20
+    },
+    {
+      "videoId": "QmXg4eahmQc",
+      "title": "FULL ( Tập 1-20 ) | Hệ Thống Huấn Luyện Đặc Công Siêu Cấp | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/QmXg4eahmQc/mqdefault.jpg",
+      "publishedAt": "2026-09-27T10:00:05Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 8374,
+      "likeCount": 119,
+      "commentCount": 10
     }
   ]
 }
