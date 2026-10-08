@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-07T12:01:08.394Z",
+  "scannedAt": "2026-10-08T03:01:06.189Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,19 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/1dDfGPnVHFo/mqdefault.jpg",
       "publishedAt": "2026-10-02T10:00:12Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 24573,
-      "likeCount": 373,
-      "commentCount": 11
-    },
-    {
-      "videoId": "TDiraefrhBg",
-      "title": "Hệ Thống Tu Luyện Nạp Tiền Nạp Càng Nhiều Ta Càng Mạnh | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/TDiraefrhBg/mqdefault.jpg",
-      "publishedAt": "2026-10-02T04:00:16Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 19212,
-      "likeCount": 292,
-      "commentCount": 18
+      "viewCount": 29479,
+      "likeCount": 415,
+      "commentCount": 12
     },
     {
       "videoId": "8oUjoo_QOWc",
@@ -37,19 +27,19 @@
       "thumbnail": "https://i.ytimg.com/vi/8oUjoo_QOWc/mqdefault.jpg",
       "publishedAt": "2026-10-04T04:01:35Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 18563,
-      "likeCount": 200,
+      "viewCount": 26553,
+      "likeCount": 220,
       "commentCount": 10
     },
     {
-      "videoId": "3fpY_M_shro",
-      "title": "(Full End) Ta Một Tát Trấn Áp Quỷ Dị | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/3fpY_M_shro/mqdefault.jpg",
-      "publishedAt": "2026-10-03T04:12:26Z",
+      "videoId": "TDiraefrhBg",
+      "title": "Hệ Thống Tu Luyện Nạp Tiền Nạp Càng Nhiều Ta Càng Mạnh | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/TDiraefrhBg/mqdefault.jpg",
+      "publishedAt": "2026-10-02T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 16238,
-      "likeCount": 247,
-      "commentCount": 21
+      "viewCount": 19784,
+      "likeCount": 295,
+      "commentCount": 18
     },
     {
       "videoId": "1W_A_lbvzzo",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/1W_A_lbvzzo/mqdefault.jpg",
       "publishedAt": "2026-10-01T04:00:33Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 15935,
-      "likeCount": 120,
+      "viewCount": 17177,
+      "likeCount": 127,
       "commentCount": 16
+    },
+    {
+      "videoId": "3fpY_M_shro",
+      "title": "(Full End) Ta Một Tát Trấn Áp Quỷ Dị | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/3fpY_M_shro/mqdefault.jpg",
+      "publishedAt": "2026-10-03T04:12:26Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 17048,
+      "likeCount": 255,
+      "commentCount": 21
     }
   ]
 }
