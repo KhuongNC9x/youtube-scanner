@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-11T03:01:06.822Z",
+  "scannedAt": "2026-10-11T12:01:03.373Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "8oUjoo_QOWc",
-      "title": "(Full End) Trò Chơi Sinh Tồn Của Người Nghèo | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/8oUjoo_QOWc/mqdefault.jpg",
-      "publishedAt": "2026-10-04T04:01:35Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 71439,
-      "likeCount": 558,
-      "commentCount": 12
-    },
-    {
       "videoId": "DdwcuJu6e0I",
       "title": "(Full Mùa 7) Toàn Cầu Sát Cơ Ta Quét Sạch Quỷ Dị Trong Ký Túc Xá | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/DdwcuJu6e0I/mqdefault.jpg",
       "publishedAt": "2026-10-05T04:00:03Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 19896,
-      "likeCount": 199,
-      "commentCount": 26
+      "viewCount": 21804,
+      "likeCount": 206,
+      "commentCount": 27
     },
     {
       "videoId": "6zAwabnytVE",
@@ -37,19 +27,19 @@
       "thumbnail": "https://i.ytimg.com/vi/6zAwabnytVE/mqdefault.jpg",
       "publishedAt": "2026-10-06T04:00:20Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 18485,
-      "likeCount": 216,
-      "commentCount": 35
+      "viewCount": 20284,
+      "likeCount": 224,
+      "commentCount": 39
     },
     {
-      "videoId": "vWChTuNO8hg",
-      "title": "FULL ( Tập 1-80 ) | Hệ Thống Sơn Thần Siêu Cấp Bá Đạo | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/vWChTuNO8hg/mqdefault.jpg",
-      "publishedAt": "2026-10-04T04:00:01Z",
+      "videoId": "oslrQZhETOQ",
+      "title": "FULL ( Tập 1-40 ) | 5 Tuổi Trở Thành Thiên Tài Siêu Cấp | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/oslrQZhETOQ/mqdefault.jpg",
+      "publishedAt": "2026-10-07T04:00:23Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 4157,
-      "likeCount": 38,
-      "commentCount": 9
+      "viewCount": 4614,
+      "likeCount": 81,
+      "commentCount": 2
     },
     {
       "videoId": "NPJmdfKp1lE",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/NPJmdfKp1lE/mqdefault.jpg",
       "publishedAt": "2026-10-07T15:30:27Z",
       "channelLabel": "Noan Noan Review",
-      "viewCount": 4138,
-      "likeCount": 126,
+      "viewCount": 4295,
+      "likeCount": 128,
       "commentCount": 5
+    },
+    {
+      "videoId": "tn_ynMCpmGo",
+      "title": "FULL ( Tập 1-70 ) | Từ Kẻ Lưu Manh Trở Thành Phú Hào | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/tn_ynMCpmGo/mqdefault.jpg",
+      "publishedAt": "2026-10-09T04:00:29Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 1120,
+      "likeCount": 19,
+      "commentCount": 2
     }
   ]
 }
