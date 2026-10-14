@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-14T03:01:06.859Z",
+  "scannedAt": "2026-10-14T12:01:12.934Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "oslrQZhETOQ",
-      "title": "FULL ( Tập 1-40 ) | 5 Tuổi Trở Thành Thiên Tài Siêu Cấp | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/oslrQZhETOQ/mqdefault.jpg",
-      "publishedAt": "2026-10-07T04:00:23Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 7751,
-      "likeCount": 121,
-      "commentCount": 2
-    },
-    {
       "videoId": "tn_ynMCpmGo",
       "title": "FULL ( Tập 1-70 ) | Từ Kẻ Lưu Manh Trở Thành Phú Hào | Thi Vietsub",
       "thumbnail": "https://i.ytimg.com/vi/tn_ynMCpmGo/mqdefault.jpg",
       "publishedAt": "2026-10-09T04:00:29Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 5278,
-      "likeCount": 44,
+      "viewCount": 5798,
+      "likeCount": 45,
       "commentCount": 5
     },
     {
@@ -37,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/NPJmdfKp1lE/mqdefault.jpg",
       "publishedAt": "2026-10-07T15:30:27Z",
       "channelLabel": "Noan Noan Review",
-      "viewCount": 4653,
-      "likeCount": 131,
+      "viewCount": 4683,
+      "likeCount": 130,
       "commentCount": 5
     },
     {
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/9yyzyjPCQzY/mqdefault.jpg",
       "publishedAt": "2026-10-13T04:00:38Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 1953,
-      "likeCount": 58,
+      "viewCount": 2163,
+      "likeCount": 50,
       "commentCount": 2
+    },
+    {
+      "videoId": "k1-VI0tdgyc",
+      "title": "Vạn Sinh Giác Ngộ: Nan Giải │ Tập 152-155",
+      "thumbnail": "https://i.ytimg.com/vi/k1-VI0tdgyc/mqdefault.jpg",
+      "publishedAt": "2026-10-13T15:15:34Z",
+      "channelLabel": "Noan Noan Review",
+      "viewCount": 1978,
+      "likeCount": 99,
+      "commentCount": 8
     },
     {
       "videoId": "431M_ENrJAI",
@@ -57,8 +57,8 @@
       "thumbnail": "https://i.ytimg.com/vi/431M_ENrJAI/mqdefault.jpg",
       "publishedAt": "2026-10-12T04:00:01Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 1403,
-      "likeCount": 43,
+      "viewCount": 1476,
+      "likeCount": 46,
       "commentCount": 1
     }
   ]
