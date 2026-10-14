@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-13T12:01:08.409Z",
+  "scannedAt": "2026-10-14T03:01:06.859Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,19 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/oslrQZhETOQ/mqdefault.jpg",
       "publishedAt": "2026-10-07T04:00:23Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 7205,
-      "likeCount": 119,
+      "viewCount": 7751,
+      "likeCount": 121,
       "commentCount": 2
-    },
-    {
-      "videoId": "NPJmdfKp1lE",
-      "title": "Vạn Sinh Giác Ngộ: Đạo Cấp │ Tập 148-151",
-      "thumbnail": "https://i.ytimg.com/vi/NPJmdfKp1lE/mqdefault.jpg",
-      "publishedAt": "2026-10-07T15:30:27Z",
-      "channelLabel": "Noan Noan Review",
-      "viewCount": 4636,
-      "likeCount": 131,
-      "commentCount": 5
     },
     {
       "videoId": "tn_ynMCpmGo",
@@ -37,19 +27,19 @@
       "thumbnail": "https://i.ytimg.com/vi/tn_ynMCpmGo/mqdefault.jpg",
       "publishedAt": "2026-10-09T04:00:29Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 4058,
-      "likeCount": 40,
+      "viewCount": 5278,
+      "likeCount": 44,
       "commentCount": 5
     },
     {
-      "videoId": "431M_ENrJAI",
-      "title": "FULL ( Tập 1-50 ) | Sự Trở Lại Của Thiếu Gia Kinh Thành | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/431M_ENrJAI/mqdefault.jpg",
-      "publishedAt": "2026-10-12T04:00:01Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 1300,
-      "likeCount": 43,
-      "commentCount": 1
+      "videoId": "NPJmdfKp1lE",
+      "title": "Vạn Sinh Giác Ngộ: Đạo Cấp │ Tập 148-151",
+      "thumbnail": "https://i.ytimg.com/vi/NPJmdfKp1lE/mqdefault.jpg",
+      "publishedAt": "2026-10-07T15:30:27Z",
+      "channelLabel": "Noan Noan Review",
+      "viewCount": 4653,
+      "likeCount": 131,
+      "commentCount": 5
     },
     {
       "videoId": "9yyzyjPCQzY",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/9yyzyjPCQzY/mqdefault.jpg",
       "publishedAt": "2026-10-13T04:00:38Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 1162,
-      "likeCount": 43,
+      "viewCount": 1953,
+      "likeCount": 58,
       "commentCount": 2
+    },
+    {
+      "videoId": "431M_ENrJAI",
+      "title": "FULL ( Tập 1-50 ) | Sự Trở Lại Của Thiếu Gia Kinh Thành | Thi Vietsub",
+      "thumbnail": "https://i.ytimg.com/vi/431M_ENrJAI/mqdefault.jpg",
+      "publishedAt": "2026-10-12T04:00:01Z",
+      "channelLabel": "Thi Vietsub Phim",
+      "viewCount": 1403,
+      "likeCount": 43,
+      "commentCount": 1
     }
   ]
 }
