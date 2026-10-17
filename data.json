@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-16T12:01:06.965Z",
+  "scannedAt": "2026-10-17T03:01:05.595Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/JyxWTQD7t8U/mqdefault.jpg",
       "publishedAt": "2026-10-15T04:00:39Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 9847,
-      "likeCount": 136,
-      "commentCount": 14
+      "viewCount": 11490,
+      "likeCount": 146,
+      "commentCount": 15
     },
     {
       "videoId": "9yyzyjPCQzY",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/9yyzyjPCQzY/mqdefault.jpg",
       "publishedAt": "2026-10-13T04:00:38Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 6960,
-      "likeCount": 85,
+      "viewCount": 11014,
+      "likeCount": 100,
       "commentCount": 4
-    },
-    {
-      "videoId": "-WidPa5MNTo",
-      "title": "Toàn Cầu Cao Võ, Ta Thức Tỉnh Hoang Cổ Thánh Thể SSS Và Thần Nhãn Tu La Sát Đồng | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/-WidPa5MNTo/mqdefault.jpg",
-      "publishedAt": "2026-10-15T10:00:00Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 5415,
-      "likeCount": 72,
-      "commentCount": 12
     },
     {
       "videoId": "431M_ENrJAI",
@@ -47,19 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/431M_ENrJAI/mqdefault.jpg",
       "publishedAt": "2026-10-12T04:00:01Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 5386,
-      "likeCount": 74,
+      "viewCount": 6737,
+      "likeCount": 84,
       "commentCount": 3
     },
     {
-      "videoId": "k1-VI0tdgyc",
-      "title": "Vạn Sinh Giác Ngộ: Nan Giải │ Tập 152-155",
-      "thumbnail": "https://i.ytimg.com/vi/k1-VI0tdgyc/mqdefault.jpg",
-      "publishedAt": "2026-10-13T15:15:34Z",
-      "channelLabel": "Noan Noan Review",
-      "viewCount": 3292,
-      "likeCount": 113,
-      "commentCount": 10
+      "videoId": "-WidPa5MNTo",
+      "title": "Toàn Cầu Cao Võ, Ta Thức Tỉnh Hoang Cổ Thánh Thể SSS Và Thần Nhãn Tu La Sát Đồng | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/-WidPa5MNTo/mqdefault.jpg",
+      "publishedAt": "2026-10-15T10:00:00Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 6061,
+      "likeCount": 77,
+      "commentCount": 12
+    },
+    {
+      "videoId": "oQ9w-LaA-9I",
+      "title": "Kỷ Nguyên Thần Dụ: Ta Thức Tỉnh Thần Dụ Cấp SSS Thần Cấp | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/oQ9w-LaA-9I/mqdefault.jpg",
+      "publishedAt": "2026-10-16T10:00:35Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 3782,
+      "likeCount": 78,
+      "commentCount": 15
     }
   ]
 }
