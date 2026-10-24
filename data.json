@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-24T03:01:05.302Z",
+  "scannedAt": "2026-10-24T12:01:03.341Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,44 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "TX6bUtaF6B0",
-      "title": "(Full End) Đại Ca Giang Hồ: Trở Lại | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/TX6bUtaF6B0/mqdefault.jpg",
-      "publishedAt": "2026-10-18T04:00:09Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 47631,
-      "likeCount": 704,
-      "commentCount": 64
-    },
-    {
-      "videoId": "aJJNTJCMVyo",
-      "title": "(Full Mùa 2) Thức Tỉnh Nghề Nghiệp Kẻ Lừa Đảo, Ta Lừa Cả Thần Linh | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/aJJNTJCMVyo/mqdefault.jpg",
-      "publishedAt": "2026-10-17T04:00:19Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 40140,
-      "likeCount": 684,
-      "commentCount": 84
-    },
-    {
-      "videoId": "YPDQULMf7Ag",
-      "title": "(Full Mùa 8) Toàn Cầu Sát Cơ Ta Quét Sạch Quỷ Dị Trong Ký Túc Xá | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/YPDQULMf7Ag/mqdefault.jpg",
-      "publishedAt": "2026-10-17T11:15:31Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 12898,
-      "likeCount": 134,
-      "commentCount": 29
-    },
-    {
       "videoId": "vBcabgSBEaw",
       "title": "(Full 18 Giờ) Cô Con Gái Nhìn Thấy Tương Lai | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/vBcabgSBEaw/mqdefault.jpg",
       "publishedAt": "2026-10-20T04:00:02Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12423,
-      "likeCount": 233,
-      "commentCount": 22
+      "viewCount": 14224,
+      "likeCount": 241,
+      "commentCount": 23
     },
     {
       "videoId": "fpzi_uIPP4k",
@@ -57,8 +27,38 @@
       "thumbnail": "https://i.ytimg.com/vi/fpzi_uIPP4k/mqdefault.jpg",
       "publishedAt": "2026-10-21T10:00:34Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 8308,
-      "likeCount": 120,
+      "viewCount": 8833,
+      "likeCount": 136,
+      "commentCount": 7
+    },
+    {
+      "videoId": "8qwnrWBlkj4",
+      "title": "(Full Version) Kẻ Điên Cấp SSS Trong Trò Chơi Tử Thần | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/8qwnrWBlkj4/mqdefault.jpg",
+      "publishedAt": "2026-10-23T04:00:17Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 8743,
+      "likeCount": 173,
+      "commentCount": 17
+    },
+    {
+      "videoId": "BqhpkqQ-v3g",
+      "title": "(Full 1-35) Bạn Cùng Bàn Của Tôi Không Thể Đáng Yêu Như Thế | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/BqhpkqQ-v3g/mqdefault.jpg",
+      "publishedAt": "2026-10-21T05:00:24Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 7213,
+      "likeCount": 157,
+      "commentCount": 12
+    },
+    {
+      "videoId": "QuuDd6IjRiE",
+      "title": "Hệ Thống Gieo Quẻ Cầu Gì Được Nấy | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/QuuDd6IjRiE/mqdefault.jpg",
+      "publishedAt": "2026-10-21T04:00:31Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 7126,
+      "likeCount": 107,
       "commentCount": 7
     }
   ]
