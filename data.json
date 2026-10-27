@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-26T12:01:10.115Z",
+  "scannedAt": "2026-10-27T03:01:32.796Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,19 @@
       "thumbnail": "https://i.ytimg.com/vi/pT_FA4yWek4/mqdefault.jpg",
       "publishedAt": "2026-10-25T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12947,
-      "likeCount": 245,
-      "commentCount": 12
+      "viewCount": 14824,
+      "likeCount": 282,
+      "commentCount": 15
+    },
+    {
+      "videoId": "lX56z6Oa4jM",
+      "title": "Full 1-80 | Hệ Thống Giao Dịch Tuổi Thọ | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/lX56z6Oa4jM/mqdefault.jpg",
+      "publishedAt": "2026-10-26T04:00:16Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 13171,
+      "likeCount": 334,
+      "commentCount": 21
     },
     {
       "videoId": "8qwnrWBlkj4",
@@ -27,8 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/8qwnrWBlkj4/mqdefault.jpg",
       "publishedAt": "2026-10-23T04:00:17Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 11316,
-      "likeCount": 212,
+      "viewCount": 11676,
+      "likeCount": 215,
       "commentCount": 20
     },
     {
@@ -37,8 +47,8 @@
       "thumbnail": "https://i.ytimg.com/vi/tzaIxkQu1JE/mqdefault.jpg",
       "publishedAt": "2026-10-24T10:00:14Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 10285,
-      "likeCount": 190,
+      "viewCount": 11380,
+      "likeCount": 193,
       "commentCount": 17
     },
     {
@@ -47,19 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/B23Y4JxLAUQ/mqdefault.jpg",
       "publishedAt": "2026-10-23T11:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 7514,
-      "likeCount": 127,
+      "viewCount": 7711,
+      "likeCount": 132,
       "commentCount": 19
-    },
-    {
-      "videoId": "oIWfF_77UrA",
-      "title": "Full (Tập 1-10) | Cả Thành Phố Tưởng Tôi Là Trùm Cuối | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/oIWfF_77UrA/mqdefault.jpg",
-      "publishedAt": "2026-10-24T05:00:22Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 7150,
-      "likeCount": 96,
-      "commentCount": 7
     }
   ]
 }
