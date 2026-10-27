@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-27T03:01:32.796Z",
+  "scannedAt": "2026-10-27T12:01:09.528Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/pT_FA4yWek4/mqdefault.jpg",
       "publishedAt": "2026-10-25T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 14824,
-      "likeCount": 282,
+      "viewCount": 17276,
+      "likeCount": 343,
       "commentCount": 15
     },
     {
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/lX56z6Oa4jM/mqdefault.jpg",
       "publishedAt": "2026-10-26T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13171,
-      "likeCount": 334,
-      "commentCount": 21
-    },
-    {
-      "videoId": "8qwnrWBlkj4",
-      "title": "(Full Version) Kẻ Điên Cấp SSS Trong Trò Chơi Tử Thần | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/8qwnrWBlkj4/mqdefault.jpg",
-      "publishedAt": "2026-10-23T04:00:17Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 11676,
-      "likeCount": 215,
-      "commentCount": 20
+      "viewCount": 16431,
+      "likeCount": 379,
+      "commentCount": 27
     },
     {
       "videoId": "tzaIxkQu1JE",
@@ -47,19 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/tzaIxkQu1JE/mqdefault.jpg",
       "publishedAt": "2026-10-24T10:00:14Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 11380,
-      "likeCount": 193,
-      "commentCount": 17
+      "viewCount": 12048,
+      "likeCount": 206,
+      "commentCount": 18
     },
     {
-      "videoId": "B23Y4JxLAUQ",
-      "title": "Trùng Sinh Thành Tà Ma, Tôi Phải Giả Làm Người Để Sống Sót | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/B23Y4JxLAUQ/mqdefault.jpg",
-      "publishedAt": "2026-10-23T11:00:16Z",
+      "videoId": "oIWfF_77UrA",
+      "title": "Full (Tập 1-10) | Cả Thành Phố Tưởng Tôi Là Trùm Cuối | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/oIWfF_77UrA/mqdefault.jpg",
+      "publishedAt": "2026-10-24T05:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 7711,
-      "likeCount": 132,
-      "commentCount": 19
+      "viewCount": 7468,
+      "likeCount": 100,
+      "commentCount": 7
+    },
+    {
+      "videoId": "eSjVrLSZA5Q",
+      "title": "Full (Tập 1-85) |  Tội Phạm Hoàn Hảo | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/eSjVrLSZA5Q/mqdefault.jpg",
+      "publishedAt": "2026-10-24T04:00:17Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 6662,
+      "likeCount": 129,
+      "commentCount": 11
     }
   ]
 }
