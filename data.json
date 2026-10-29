@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-29T03:01:08.044Z",
+  "scannedAt": "2026-10-29T12:01:10.422Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/lX56z6Oa4jM/mqdefault.jpg",
       "publishedAt": "2026-10-26T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 25897,
-      "likeCount": 489,
-      "commentCount": 37
+      "viewCount": 29819,
+      "likeCount": 535,
+      "commentCount": 45
     },
     {
       "videoId": "pT_FA4yWek4",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/pT_FA4yWek4/mqdefault.jpg",
       "publishedAt": "2026-10-25T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 20429,
-      "likeCount": 372,
+      "viewCount": 20866,
+      "likeCount": 376,
       "commentCount": 17
-    },
-    {
-      "videoId": "tzaIxkQu1JE",
-      "title": "Full (Tập 1-95) | Toàn Dân Sinh Tồn Ký Túc Xá Tôi Là Sát Thần Mạnh Nhất | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/tzaIxkQu1JE/mqdefault.jpg",
-      "publishedAt": "2026-10-24T10:00:14Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 15085,
-      "likeCount": 216,
-      "commentCount": 19
     },
     {
       "videoId": "ZysRfjNf6q8",
@@ -47,19 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/ZysRfjNf6q8/mqdefault.jpg",
       "publishedAt": "2026-10-26T10:00:34Z",
       "channelLabel": "Noan Noan Review",
-      "viewCount": 11729,
-      "likeCount": 86,
+      "viewCount": 14001,
+      "likeCount": 104,
       "commentCount": 2
     },
     {
-      "videoId": "oIWfF_77UrA",
-      "title": "Full (Tập 1-10) | Cả Thành Phố Tưởng Tôi Là Trùm Cuối | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/oIWfF_77UrA/mqdefault.jpg",
-      "publishedAt": "2026-10-24T05:00:22Z",
+      "videoId": "0kUywLYFtKo",
+      "title": "Full 1-102 | Hệ Thống Mua Bán Thân Phận Cấp Thần Tại Dị Giới | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/0kUywLYFtKo/mqdefault.jpg",
+      "publishedAt": "2026-10-25T10:00:17Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 7721,
-      "likeCount": 101,
-      "commentCount": 7
+      "viewCount": 8147,
+      "likeCount": 155,
+      "commentCount": 11
+    },
+    {
+      "videoId": "4qS9azM1ZtE",
+      "title": "Full 1-30 | Sinh Tồn Trong Lớp Học Quái Đàm Ta Thức Tỉnh Thiên Phú Tàn Hình Cấp SSS | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/4qS9azM1ZtE/mqdefault.jpg",
+      "publishedAt": "2026-10-25T11:00:06Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 6670,
+      "likeCount": 122,
+      "commentCount": 13
     }
   ]
 }
