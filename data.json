@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-01T12:01:10.626Z",
+  "scannedAt": "2026-11-02T03:01:09.325Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/lX56z6Oa4jM/mqdefault.jpg",
       "publishedAt": "2026-10-26T04:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 48744,
-      "likeCount": 668,
+      "viewCount": 50351,
+      "likeCount": 678,
       "commentCount": 54
     },
     {
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/ZysRfjNf6q8/mqdefault.jpg",
       "publishedAt": "2026-10-26T10:00:34Z",
       "channelLabel": "Noan Noan Review",
-      "viewCount": 28576,
-      "likeCount": 195,
+      "viewCount": 30938,
+      "likeCount": 208,
       "commentCount": 4
     },
     {
@@ -37,9 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/QpH5gjjF_DM/mqdefault.jpg",
       "publishedAt": "2026-10-30T04:00:25Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 18124,
-      "likeCount": 340,
-      "commentCount": 20
+      "viewCount": 19136,
+      "likeCount": 347,
+      "commentCount": 21
     },
     {
       "videoId": "3fhpfYbIGzw",
@@ -47,9 +47,9 @@
       "thumbnail": "https://i.ytimg.com/vi/3fhpfYbIGzw/mqdefault.jpg",
       "publishedAt": "2026-10-31T11:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13066,
-      "likeCount": 261,
-      "commentCount": 26
+      "viewCount": 17578,
+      "likeCount": 324,
+      "commentCount": 27
     },
     {
       "videoId": "UxHXsuTKCIc",
@@ -57,9 +57,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UxHXsuTKCIc/mqdefault.jpg",
       "publishedAt": "2026-10-31T03:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 10764,
-      "likeCount": 198,
-      "commentCount": 29
+      "viewCount": 12345,
+      "likeCount": 222,
+      "commentCount": 31
     }
   ]
 }
