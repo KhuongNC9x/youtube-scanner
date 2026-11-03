@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-03T03:01:13.213Z",
+  "scannedAt": "2026-11-03T12:01:08.399Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/3fhpfYbIGzw/mqdefault.jpg",
       "publishedAt": "2026-10-31T11:00:16Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 22733,
-      "likeCount": 374,
-      "commentCount": 29
+      "viewCount": 24540,
+      "likeCount": 403,
+      "commentCount": 31
     },
     {
       "videoId": "QpH5gjjF_DM",
@@ -27,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/QpH5gjjF_DM/mqdefault.jpg",
       "publishedAt": "2026-10-30T04:00:25Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 22248,
-      "likeCount": 372,
-      "commentCount": 24
+      "viewCount": 23355,
+      "likeCount": 389,
+      "commentCount": 26
     },
     {
       "videoId": "UxHXsuTKCIc",
@@ -37,19 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UxHXsuTKCIc/mqdefault.jpg",
       "publishedAt": "2026-10-31T03:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 14550,
-      "likeCount": 247,
-      "commentCount": 32
-    },
-    {
-      "videoId": "OTEYowTAzxc",
-      "title": "Full Version | Sa Thải Nhầm Đại Thần IT | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/OTEYowTAzxc/mqdefault.jpg",
-      "publishedAt": "2026-10-27T04:00:03Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 13991,
-      "likeCount": 69,
-      "commentCount": 5
+      "viewCount": 15227,
+      "likeCount": 256,
+      "commentCount": 33
     },
     {
       "videoId": "Pcb16MUlaVk",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/Pcb16MUlaVk/mqdefault.jpg",
       "publishedAt": "2026-10-30T03:00:12Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12542,
-      "likeCount": 200,
+      "viewCount": 13301,
+      "likeCount": 216,
       "commentCount": 12
+    },
+    {
+      "videoId": "yv43o5Dfgk8",
+      "title": "Full 1-60 | Từ Học Sinh Đội Sổ Tôi Trở Thành Siêu Cấp Thiên Tài | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/yv43o5Dfgk8/mqdefault.jpg",
+      "publishedAt": "2026-10-28T10:00:14Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 12052,
+      "likeCount": 133,
+      "commentCount": 8
     }
   ]
 }
