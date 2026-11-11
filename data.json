@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-11T03:01:09.942Z",
+  "scannedAt": "2026-11-11T12:01:09.985Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,34 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "3CZugOeSf_I",
-      "title": "Full 21 Giờ | Thái Tử Gia Trở Về | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/3CZugOeSf_I/mqdefault.jpg",
-      "publishedAt": "2026-11-04T04:00:11Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 58240,
-      "likeCount": 619,
-      "commentCount": 24
-    },
-    {
       "videoId": "4jnU7Nb12jI",
       "title": "Full 18 Giờ | Khế Ước Vô Hạn, Ta Thống Trị Vạn Quỷ | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/4jnU7Nb12jI/mqdefault.jpg",
       "publishedAt": "2026-11-05T04:00:02Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 31478,
-      "likeCount": 428,
+      "viewCount": 36381,
+      "likeCount": 475,
       "commentCount": 25
-    },
-    {
-      "videoId": "3Yo4YOXLx4Q",
-      "title": "Full 1-20 | Thức Tỉnh Dị Năng SSS, Ta Trở Thành Kẻ Săn Mồi Mạnh Nhất | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/3Yo4YOXLx4Q/mqdefault.jpg",
-      "publishedAt": "2026-11-04T10:00:27Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 14904,
-      "likeCount": 211,
-      "commentCount": 13
     },
     {
       "videoId": "-3yHFbp-4ak",
@@ -47,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/-3yHFbp-4ak/mqdefault.jpg",
       "publishedAt": "2026-11-08T04:00:24Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13803,
-      "likeCount": 211,
+      "viewCount": 15382,
+      "likeCount": 220,
       "commentCount": 14
     },
     {
@@ -57,9 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/-BuPjFqdYIY/mqdefault.jpg",
       "publishedAt": "2026-11-07T04:00:02Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12587,
-      "likeCount": 194,
+      "viewCount": 13596,
+      "likeCount": 200,
       "commentCount": 15
+    },
+    {
+      "videoId": "jo0k3IqrUqY",
+      "title": "Full Mùa 4 | Thức Tỉnh Nghề Nghiệp Kẻ Lừa Đảo, Ta Lừa Cả Thần Linh | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/jo0k3IqrUqY/mqdefault.jpg",
+      "publishedAt": "2026-11-07T01:00:27Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 10789,
+      "likeCount": 180,
+      "commentCount": 19
+    },
+    {
+      "videoId": "clvG0JTRrsk",
+      "title": "Full 15 Giờ | Kẻ Tay Trắng Xưng Bá Giang Hồ | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/clvG0JTRrsk/mqdefault.jpg",
+      "publishedAt": "2026-11-06T04:00:39Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 9075,
+      "likeCount": 98,
+      "commentCount": 6
     }
   ]
 }
