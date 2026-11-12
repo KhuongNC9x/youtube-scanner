@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-12T03:01:06.291Z",
+  "scannedAt": "2026-11-12T12:01:08.872Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,24 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "4jnU7Nb12jI",
-      "title": "Full 18 Giờ | Khế Ước Vô Hạn, Ta Thống Trị Vạn Quỷ | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/4jnU7Nb12jI/mqdefault.jpg",
-      "publishedAt": "2026-11-05T04:00:02Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 40909,
-      "likeCount": 511,
-      "commentCount": 25
-    },
-    {
       "videoId": "-3yHFbp-4ak",
       "title": "Full 16 Giờ | Tuổi 18 Ngông Cuồng | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/-3yHFbp-4ak/mqdefault.jpg",
       "publishedAt": "2026-11-08T04:00:24Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 17471,
-      "likeCount": 236,
-      "commentCount": 14
+      "viewCount": 18541,
+      "likeCount": 248,
+      "commentCount": 15
     },
     {
       "videoId": "-BuPjFqdYIY",
@@ -37,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/-BuPjFqdYIY/mqdefault.jpg",
       "publishedAt": "2026-11-07T04:00:02Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 14858,
-      "likeCount": 208,
+      "viewCount": 16119,
+      "likeCount": 219,
       "commentCount": 15
     },
     {
@@ -47,9 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/jo0k3IqrUqY/mqdefault.jpg",
       "publishedAt": "2026-11-07T01:00:27Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 11245,
-      "likeCount": 187,
-      "commentCount": 19
+      "viewCount": 11526,
+      "likeCount": 191,
+      "commentCount": 22
     },
     {
       "videoId": "clvG0JTRrsk",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/clvG0JTRrsk/mqdefault.jpg",
       "publishedAt": "2026-11-06T04:00:39Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 9652,
-      "likeCount": 107,
+      "viewCount": 10029,
+      "likeCount": 111,
       "commentCount": 7
+    },
+    {
+      "videoId": "pdSScBfp5Ts",
+      "title": "Full 18 Giờ | Tên Điên Mạnh Nhất Ra Tù | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/pdSScBfp5Ts/mqdefault.jpg",
+      "publishedAt": "2026-11-09T04:00:09Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 9290,
+      "likeCount": 156,
+      "commentCount": 5
     }
   ]
 }
