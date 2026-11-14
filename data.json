@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-13T12:01:04.869Z",
+  "scannedAt": "2026-11-14T03:01:05.379Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/-3yHFbp-4ak/mqdefault.jpg",
       "publishedAt": "2026-11-08T04:00:24Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 21407,
-      "likeCount": 262,
+      "viewCount": 22954,
+      "likeCount": 274,
       "commentCount": 17
     },
     {
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/-BuPjFqdYIY/mqdefault.jpg",
       "publishedAt": "2026-11-07T04:00:02Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 19618,
-      "likeCount": 246,
-      "commentCount": 17
-    },
-    {
-      "videoId": "jo0k3IqrUqY",
-      "title": "Full Mùa 4 | Thức Tỉnh Nghề Nghiệp Kẻ Lừa Đảo, Ta Lừa Cả Thần Linh | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/jo0k3IqrUqY/mqdefault.jpg",
-      "publishedAt": "2026-11-07T01:00:27Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 12076,
-      "likeCount": 198,
-      "commentCount": 22
+      "viewCount": 21429,
+      "likeCount": 256,
+      "commentCount": 20
     },
     {
       "videoId": "pdSScBfp5Ts",
@@ -47,9 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/pdSScBfp5Ts/mqdefault.jpg",
       "publishedAt": "2026-11-09T04:00:09Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 11507,
-      "likeCount": 172,
-      "commentCount": 6
+      "viewCount": 13250,
+      "likeCount": 188,
+      "commentCount": 9
     },
     {
       "videoId": "AcBoRAgUSRQ",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/AcBoRAgUSRQ/mqdefault.jpg",
       "publishedAt": "2026-11-10T04:00:29Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 8566,
-      "likeCount": 143,
+      "viewCount": 8927,
+      "likeCount": 145,
       "commentCount": 7
+    },
+    {
+      "videoId": "2QifQ10KoMA",
+      "title": "Full Mùa 10 | Toàn Cầu Sát Cơ Ta Đồ Sát Quỷ Dị Trong Ký Túc Xá | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/2QifQ10KoMA/mqdefault.jpg",
+      "publishedAt": "2026-11-07T13:42:11Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 8036,
+      "likeCount": 75,
+      "commentCount": 9
     }
   ]
 }
