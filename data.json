@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-15T03:01:06.597Z",
+  "scannedAt": "2026-11-15T12:01:12.235Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,23 +12,13 @@
   ],
   "top5": [
     {
-      "videoId": "-3yHFbp-4ak",
-      "title": "Full 16 Giờ | Tuổi 18 Ngông Cuồng | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/-3yHFbp-4ak/mqdefault.jpg",
-      "publishedAt": "2026-11-08T04:00:24Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 26900,
-      "likeCount": 297,
-      "commentCount": 17
-    },
-    {
       "videoId": "pdSScBfp5Ts",
       "title": "Full 18 Giờ | Tên Điên Mạnh Nhất Ra Tù | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/pdSScBfp5Ts/mqdefault.jpg",
       "publishedAt": "2026-11-09T04:00:09Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 17154,
-      "likeCount": 212,
+      "viewCount": 20193,
+      "likeCount": 237,
       "commentCount": 9
     },
     {
@@ -37,9 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/s3utiCL1iK0/mqdefault.jpg",
       "publishedAt": "2026-11-14T04:00:26Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 11030,
-      "likeCount": 346,
-      "commentCount": 16
+      "viewCount": 14696,
+      "likeCount": 388,
+      "commentCount": 20
     },
     {
       "videoId": "9axMTO-21h0",
@@ -47,9 +37,9 @@
       "thumbnail": "https://i.ytimg.com/vi/9axMTO-21h0/mqdefault.jpg",
       "publishedAt": "2026-11-12T10:00:11Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 10869,
-      "likeCount": 166,
-      "commentCount": 12
+      "viewCount": 11895,
+      "likeCount": 172,
+      "commentCount": 13
     },
     {
       "videoId": "AcBoRAgUSRQ",
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/AcBoRAgUSRQ/mqdefault.jpg",
       "publishedAt": "2026-11-10T04:00:29Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 9945,
-      "likeCount": 155,
+      "viewCount": 10534,
+      "likeCount": 162,
       "commentCount": 7
+    },
+    {
+      "videoId": "rq5Uws1Sw2Y",
+      "title": "Full Mùa 1 | Chung Cư Quỷ Dị: Ta Là Khắc Tinh Của Ngụy Nhân | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/rq5Uws1Sw2Y/mqdefault.jpg",
+      "publishedAt": "2026-11-14T10:00:05Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 9262,
+      "likeCount": 179,
+      "commentCount": 13
     }
   ]
 }
