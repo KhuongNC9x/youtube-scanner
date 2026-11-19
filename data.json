@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-18T12:01:13.512Z",
+  "scannedAt": "2026-11-19T03:01:10.113Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,9 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/g-jHSx1vwF8/mqdefault.jpg",
       "publishedAt": "2026-11-12T04:00:30Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 35355,
-      "likeCount": 224,
-      "commentCount": 5
+      "viewCount": 40588,
+      "likeCount": 239,
+      "commentCount": 6
     },
     {
       "videoId": "s3utiCL1iK0",
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/s3utiCL1iK0/mqdefault.jpg",
       "publishedAt": "2026-11-14T04:00:26Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 30532,
-      "likeCount": 605,
+      "viewCount": 34769,
+      "likeCount": 651,
       "commentCount": 32
-    },
-    {
-      "videoId": "rq5Uws1Sw2Y",
-      "title": "Full Mùa 1 | Chung Cư Quỷ Dị: Ta Là Khắc Tinh Của Ngụy Nhân | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/rq5Uws1Sw2Y/mqdefault.jpg",
-      "publishedAt": "2026-11-14T10:00:05Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 20652,
-      "likeCount": 286,
-      "commentCount": 20
     },
     {
       "videoId": "9axMTO-21h0",
@@ -47,19 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/9axMTO-21h0/mqdefault.jpg",
       "publishedAt": "2026-11-12T10:00:11Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 19883,
-      "likeCount": 239,
-      "commentCount": 13
+      "viewCount": 22077,
+      "likeCount": 257,
+      "commentCount": 16
     },
     {
-      "videoId": "gbKj5sqqj18",
-      "title": "Full Mùa 1 | Toàn Dân Sinh Tồn Trong Khu Rừng Nguyên Sinh | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/gbKj5sqqj18/mqdefault.jpg",
-      "publishedAt": "2026-11-15T04:00:05Z",
+      "videoId": "rq5Uws1Sw2Y",
+      "title": "Full Mùa 1 | Chung Cư Quỷ Dị: Ta Là Khắc Tinh Của Ngụy Nhân | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/rq5Uws1Sw2Y/mqdefault.jpg",
+      "publishedAt": "2026-11-14T10:00:05Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 16235,
-      "likeCount": 261,
-      "commentCount": 15
+      "viewCount": 21914,
+      "likeCount": 293,
+      "commentCount": 20
+    },
+    {
+      "videoId": "QQet6ZxWvqE",
+      "title": "Xuyên Không Tu Tiên, Ta Có Thể Nâng Cấp Mọi Công Trình │ Full Tập 1-14 │ NoanNoan Review",
+      "thumbnail": "https://i.ytimg.com/vi/QQet6ZxWvqE/mqdefault.jpg",
+      "publishedAt": "2026-11-16T10:00:00Z",
+      "channelLabel": "Noan Noan Review",
+      "viewCount": 20372,
+      "likeCount": 267,
+      "commentCount": 14
     }
   ]
 }
