@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-22T03:01:08.977Z",
+  "scannedAt": "2026-11-22T12:01:14.204Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,19 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/QQet6ZxWvqE/mqdefault.jpg",
       "publishedAt": "2026-11-16T10:00:00Z",
       "channelLabel": "Noan Noan Review",
-      "viewCount": 37135,
-      "likeCount": 419,
+      "viewCount": 39303,
+      "likeCount": 441,
       "commentCount": 17
-    },
-    {
-      "videoId": "gbKj5sqqj18",
-      "title": "Full Mùa 1 | Toàn Dân Sinh Tồn Trong Khu Rừng Nguyên Sinh | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/gbKj5sqqj18/mqdefault.jpg",
-      "publishedAt": "2026-11-15T04:00:05Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 23889,
-      "likeCount": 314,
-      "commentCount": 16
     },
     {
       "videoId": "jMwAX6DY54o",
@@ -37,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/jMwAX6DY54o/mqdefault.jpg",
       "publishedAt": "2026-11-16T04:00:29Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 22349,
-      "likeCount": 223,
+      "viewCount": 23184,
+      "likeCount": 228,
       "commentCount": 8
     },
     {
@@ -47,8 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/-lLryRk8eV0/mqdefault.jpg",
       "publishedAt": "2026-11-19T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 14326,
-      "likeCount": 253,
+      "viewCount": 16500,
+      "likeCount": 282,
       "commentCount": 18
     },
     {
@@ -57,9 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/hyxN0G3OGMY/mqdefault.jpg",
       "publishedAt": "2026-11-16T10:00:29Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13873,
+      "viewCount": 14111,
       "likeCount": 89,
       "commentCount": 5
+    },
+    {
+      "videoId": "G6RG1y0H6CM",
+      "title": "Full 13 Giờ | Kẻ Lừa Gạt Thần Linh | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/G6RG1y0H6CM/mqdefault.jpg",
+      "publishedAt": "2026-11-18T04:00:11Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 12712,
+      "likeCount": 190,
+      "commentCount": 15
     }
   ]
 }
