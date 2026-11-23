@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-23T03:01:12.725Z",
+  "scannedAt": "2026-11-23T12:01:11.857Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -12,44 +12,14 @@
   ],
   "top5": [
     {
-      "videoId": "QQet6ZxWvqE",
-      "title": "Xuyên Không Tu Tiên, Ta Có Thể Nâng Cấp Mọi Công Trình │ Full Tập 1-14 │ NoanNoan Review",
-      "thumbnail": "https://i.ytimg.com/vi/QQet6ZxWvqE/mqdefault.jpg",
-      "publishedAt": "2026-11-16T10:00:00Z",
-      "channelLabel": "Noan Noan Review",
-      "viewCount": 40924,
-      "likeCount": 452,
-      "commentCount": 17
-    },
-    {
-      "videoId": "jMwAX6DY54o",
-      "title": "Full End | Tuyệt Đỉnh Cường Giả Ra Tù Ta Có 18 Vị Sư Phụ Chống Lưng | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/jMwAX6DY54o/mqdefault.jpg",
-      "publishedAt": "2026-11-16T04:00:29Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 23726,
-      "likeCount": 233,
-      "commentCount": 8
-    },
-    {
       "videoId": "-lLryRk8eV0",
       "title": "Full 17 Giờ | Tận Thế Ta Là Siêu Cấp Thi Vương Mạnh Nhất | Thiết Review",
       "thumbnail": "https://i.ytimg.com/vi/-lLryRk8eV0/mqdefault.jpg",
       "publishedAt": "2026-11-19T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 17868,
-      "likeCount": 298,
+      "viewCount": 18916,
+      "likeCount": 307,
       "commentCount": 18
-    },
-    {
-      "videoId": "hyxN0G3OGMY",
-      "title": "Full 1-15 | Trọng Sinh Thành Siêu Cảnh Sát, Ta Phá Án Như Thần | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/hyxN0G3OGMY/mqdefault.jpg",
-      "publishedAt": "2026-11-16T10:00:29Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 14262,
-      "likeCount": 89,
-      "commentCount": 5
     },
     {
       "videoId": "G6RG1y0H6CM",
@@ -57,9 +27,39 @@
       "thumbnail": "https://i.ytimg.com/vi/G6RG1y0H6CM/mqdefault.jpg",
       "publishedAt": "2026-11-18T04:00:11Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 13194,
-      "likeCount": 193,
-      "commentCount": 16
+      "viewCount": 13655,
+      "likeCount": 196,
+      "commentCount": 17
+    },
+    {
+      "videoId": "Lrf0hZg-zaE",
+      "title": "Full 1-60 | Đệ Nhất Thiên Sư Côn Lôn Quán Xuất Sơn | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/Lrf0hZg-zaE/mqdefault.jpg",
+      "publishedAt": "2026-11-19T10:00:23Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 11003,
+      "likeCount": 134,
+      "commentCount": 8
+    },
+    {
+      "videoId": "J5xTH7HjI9s",
+      "title": "Full 1-60 | Đại Ca Xã Hội Đen Hoàn Lương Dẫn 3000 Đàn Em Làm Shipper | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/J5xTH7HjI9s/mqdefault.jpg",
+      "publishedAt": "2026-11-21T04:00:21Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 10123,
+      "likeCount": 146,
+      "commentCount": 13
+    },
+    {
+      "videoId": "_V4ujxZJkfk",
+      "title": "Full 1-50 | Anh Trai Tâm Thần Báo Thù Cho Em Gái | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/_V4ujxZJkfk/mqdefault.jpg",
+      "publishedAt": "2026-11-17T04:00:08Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 10106,
+      "likeCount": 148,
+      "commentCount": 5
     }
   ]
 }
