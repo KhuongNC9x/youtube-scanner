@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-24T03:01:15.202Z",
+  "scannedAt": "2026-11-24T12:01:16.605Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/-lLryRk8eV0/mqdefault.jpg",
       "publishedAt": "2026-11-19T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 20998,
-      "likeCount": 322,
+      "viewCount": 23255,
+      "likeCount": 339,
       "commentCount": 18
     },
     {
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/G6RG1y0H6CM/mqdefault.jpg",
       "publishedAt": "2026-11-18T04:00:11Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 14175,
-      "likeCount": 199,
+      "viewCount": 14710,
+      "likeCount": 204,
       "commentCount": 18
-    },
-    {
-      "videoId": "Lrf0hZg-zaE",
-      "title": "Full 1-60 | Đệ Nhất Thiên Sư Côn Lôn Quán Xuất Sơn | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/Lrf0hZg-zaE/mqdefault.jpg",
-      "publishedAt": "2026-11-19T10:00:23Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 11581,
-      "likeCount": 136,
-      "commentCount": 8
     },
     {
       "videoId": "J5xTH7HjI9s",
@@ -47,9 +37,19 @@
       "thumbnail": "https://i.ytimg.com/vi/J5xTH7HjI9s/mqdefault.jpg",
       "publishedAt": "2026-11-21T04:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 11105,
-      "likeCount": 157,
-      "commentCount": 13
+      "viewCount": 13340,
+      "likeCount": 178,
+      "commentCount": 17
+    },
+    {
+      "videoId": "Lrf0hZg-zaE",
+      "title": "Full 1-60 | Đệ Nhất Thiên Sư Côn Lôn Quán Xuất Sơn | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/Lrf0hZg-zaE/mqdefault.jpg",
+      "publishedAt": "2026-11-19T10:00:23Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 12304,
+      "likeCount": 141,
+      "commentCount": 8
     },
     {
       "videoId": "680WCTXVOqM",
@@ -57,8 +57,8 @@
       "thumbnail": "https://i.ytimg.com/vi/680WCTXVOqM/mqdefault.jpg",
       "publishedAt": "2026-11-18T04:00:36Z",
       "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 10512,
-      "likeCount": 86,
+      "viewCount": 11132,
+      "likeCount": 89,
       "commentCount": 8
     }
   ]
