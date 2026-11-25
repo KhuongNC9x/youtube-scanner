@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-25T03:01:07.960Z",
+  "scannedAt": "2026-11-25T12:01:14.865Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,8 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/-lLryRk8eV0/mqdefault.jpg",
       "publishedAt": "2026-11-19T04:00:22Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 25042,
-      "likeCount": 352,
+      "viewCount": 25848,
+      "likeCount": 360,
       "commentCount": 20
     },
     {
@@ -27,19 +27,9 @@
       "thumbnail": "https://i.ytimg.com/vi/J5xTH7HjI9s/mqdefault.jpg",
       "publishedAt": "2026-11-21T04:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 15187,
-      "likeCount": 198,
+      "viewCount": 16408,
+      "likeCount": 205,
       "commentCount": 19
-    },
-    {
-      "videoId": "G6RG1y0H6CM",
-      "title": "Full 13 Giờ | Kẻ Lừa Gạt Thần Linh | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/G6RG1y0H6CM/mqdefault.jpg",
-      "publishedAt": "2026-11-18T04:00:11Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 15064,
-      "likeCount": 210,
-      "commentCount": 18
     },
     {
       "videoId": "Lrf0hZg-zaE",
@@ -47,19 +37,29 @@
       "thumbnail": "https://i.ytimg.com/vi/Lrf0hZg-zaE/mqdefault.jpg",
       "publishedAt": "2026-11-19T10:00:23Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 12798,
-      "likeCount": 148,
+      "viewCount": 13071,
+      "likeCount": 154,
       "commentCount": 8
     },
     {
-      "videoId": "680WCTXVOqM",
-      "title": "(1-15) | Sở Hữu Hệ Thống Song Xuyên, Giàu Sau Một Đêm | Thi Vietsub",
-      "thumbnail": "https://i.ytimg.com/vi/680WCTXVOqM/mqdefault.jpg",
-      "publishedAt": "2026-11-18T04:00:36Z",
-      "channelLabel": "Thi Vietsub Phim",
-      "viewCount": 11475,
-      "likeCount": 90,
-      "commentCount": 8
+      "videoId": "_Qrxw56zuo8",
+      "title": "Full End | Linh Khí Phục Hưng Tôi Trở Thành Kẻ Cứu Thế Mạnh Nhất | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/_Qrxw56zuo8/mqdefault.jpg",
+      "publishedAt": "2026-11-20T10:00:39Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 11469,
+      "likeCount": 136,
+      "commentCount": 14
+    },
+    {
+      "videoId": "gYgW44fFQmw",
+      "title": "Tuyệt Thế Thần Y Xuống Núi Các Tiểu Thư Đều Muốn Gả Cho Ta | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/gYgW44fFQmw/mqdefault.jpg",
+      "publishedAt": "2026-11-23T10:00:16Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 8446,
+      "likeCount": 106,
+      "commentCount": 4
     }
   ]
 }
