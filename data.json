@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-27T12:01:11.108Z",
+  "scannedAt": "2026-11-28T03:01:13.247Z",
   "days": 7,
   "channels": [
     "Bao Bao VietSub",
@@ -17,19 +17,9 @@
       "thumbnail": "https://i.ytimg.com/vi/J5xTH7HjI9s/mqdefault.jpg",
       "publishedAt": "2026-11-21T04:00:21Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 21428,
-      "likeCount": 254,
-      "commentCount": 23
-    },
-    {
-      "videoId": "gYgW44fFQmw",
-      "title": "Tuyệt Thế Thần Y Xuống Núi Các Tiểu Thư Đều Muốn Gả Cho Ta | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/gYgW44fFQmw/mqdefault.jpg",
-      "publishedAt": "2026-11-23T10:00:16Z",
-      "channelLabel": "Thiết Review Phim",
-      "viewCount": 10177,
-      "likeCount": 120,
-      "commentCount": 4
+      "viewCount": 22948,
+      "likeCount": 267,
+      "commentCount": 24
     },
     {
       "videoId": "N0M_bGWn2sQ",
@@ -37,9 +27,19 @@
       "thumbnail": "https://i.ytimg.com/vi/N0M_bGWn2sQ/mqdefault.jpg",
       "publishedAt": "2026-11-24T04:00:10Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 10081,
-      "likeCount": 142,
+      "viewCount": 11443,
+      "likeCount": 145,
       "commentCount": 11
+    },
+    {
+      "videoId": "gYgW44fFQmw",
+      "title": "Tuyệt Thế Thần Y Xuống Núi Các Tiểu Thư Đều Muốn Gả Cho Ta | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/gYgW44fFQmw/mqdefault.jpg",
+      "publishedAt": "2026-11-23T10:00:16Z",
+      "channelLabel": "Thiết Review Phim",
+      "viewCount": 10544,
+      "likeCount": 121,
+      "commentCount": 4
     },
     {
       "videoId": "UzmKgPqNFbI",
@@ -47,19 +47,19 @@
       "thumbnail": "https://i.ytimg.com/vi/UzmKgPqNFbI/mqdefault.jpg",
       "publishedAt": "2026-11-22T04:00:11Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 7987,
-      "likeCount": 114,
+      "viewCount": 8220,
+      "likeCount": 117,
       "commentCount": 10
     },
     {
-      "videoId": "Q8OfrNosbIk",
-      "title": "Full 1-45 | Hệ Thống Giao Dịch Vạn Giới, Ta Đổi Gỗ Lấy Công Nghệ Tương Lai | Thiết Review",
-      "thumbnail": "https://i.ytimg.com/vi/Q8OfrNosbIk/mqdefault.jpg",
-      "publishedAt": "2026-11-23T04:00:08Z",
+      "videoId": "lxeMhFLNNzo",
+      "title": "Full Mùa 5 | Thức Tỉnh Nghề Nghiệp Kẻ Lừa Đảo, Ta Lừa Cả Thần Linh | Thiết Review",
+      "thumbnail": "https://i.ytimg.com/vi/lxeMhFLNNzo/mqdefault.jpg",
+      "publishedAt": "2026-11-26T05:00:32Z",
       "channelLabel": "Thiết Review Phim",
-      "viewCount": 7126,
-      "likeCount": 101,
-      "commentCount": 6
+      "viewCount": 8202,
+      "likeCount": 163,
+      "commentCount": 15
     }
   ]
 }
